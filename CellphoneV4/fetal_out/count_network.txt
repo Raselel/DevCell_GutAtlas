@@ -1,0 +1,730 @@
+SOURCE	TARGET	count
+SMC	SMC	49
+SMC	NTS+ cells	57
+SMC	Enteric neurons	71
+SMC	cycling cells 1	107
+SMC	uniform progenitor	101
+SMC	mesoderm 2	83
+SMC	early enterocyte 1	46
+SMC	mesoderm 1	77
+SMC	Neural crest cells	67
+SMC	cycling cells 2	78
+SMC	LGR5 stem	91
+SMC	Goblet prog	87
+SMC	early enterocyte 2	56
+SMC	enteroendocrine	78
+SMC	FOXL1 FLC	110
+SMC	Erythroblasts	10
+SMC	BEST4 enterocyte prog	53
+SMC	enterocyte	56
+SMC	pericyte	99
+SMC	Venous EC	117
+SMC	ICC	65
+SMC	myofibroblast	118
+SMC	immune cells	47
+SMC	Arterial EC	92
+SMC	WNT4 FLC	119
+SMC	UPK3B Serosa	46
+SMC	Lymphatic EC	58
+NTS+ cells	SMC	57
+NTS+ cells	NTS+ cells	19
+NTS+ cells	Enteric neurons	48
+NTS+ cells	cycling cells 1	64
+NTS+ cells	uniform progenitor	63
+NTS+ cells	mesoderm 2	58
+NTS+ cells	early enterocyte 1	38
+NTS+ cells	mesoderm 1	60
+NTS+ cells	Neural crest cells	32
+NTS+ cells	cycling cells 2	49
+NTS+ cells	LGR5 stem	39
+NTS+ cells	Goblet prog	55
+NTS+ cells	early enterocyte 2	39
+NTS+ cells	enteroendocrine	55
+NTS+ cells	FOXL1 FLC	92
+NTS+ cells	Erythroblasts	4
+NTS+ cells	BEST4 enterocyte prog	42
+NTS+ cells	enterocyte	43
+NTS+ cells	pericyte	63
+NTS+ cells	Venous EC	75
+NTS+ cells	ICC	45
+NTS+ cells	myofibroblast	76
+NTS+ cells	immune cells	46
+NTS+ cells	Arterial EC	69
+NTS+ cells	WNT4 FLC	87
+NTS+ cells	UPK3B Serosa	53
+NTS+ cells	Lymphatic EC	49
+Enteric neurons	SMC	71
+Enteric neurons	NTS+ cells	48
+Enteric neurons	Enteric neurons	31
+Enteric neurons	cycling cells 1	83
+Enteric neurons	uniform progenitor	75
+Enteric neurons	mesoderm 2	57
+Enteric neurons	early enterocyte 1	46
+Enteric neurons	mesoderm 1	57
+Enteric neurons	Neural crest cells	60
+Enteric neurons	cycling cells 2	69
+Enteric neurons	LGR5 stem	65
+Enteric neurons	Goblet prog	68
+Enteric neurons	early enterocyte 2	53
+Enteric neurons	enteroendocrine	73
+Enteric neurons	FOXL1 FLC	100
+Enteric neurons	Erythroblasts	3
+Enteric neurons	BEST4 enterocyte prog	45
+Enteric neurons	enterocyte	48
+Enteric neurons	pericyte	81
+Enteric neurons	Venous EC	71
+Enteric neurons	ICC	59
+Enteric neurons	myofibroblast	78
+Enteric neurons	immune cells	30
+Enteric neurons	Arterial EC	58
+Enteric neurons	WNT4 FLC	95
+Enteric neurons	UPK3B Serosa	40
+Enteric neurons	Lymphatic EC	38
+cycling cells 1	SMC	107
+cycling cells 1	NTS+ cells	64
+cycling cells 1	Enteric neurons	83
+cycling cells 1	cycling cells 1	43
+cycling cells 1	uniform progenitor	95
+cycling cells 1	mesoderm 2	106
+cycling cells 1	early enterocyte 1	42
+cycling cells 1	mesoderm 1	105
+cycling cells 1	Neural crest cells	60
+cycling cells 1	cycling cells 2	69
+cycling cells 1	LGR5 stem	50
+cycling cells 1	Goblet prog	60
+cycling cells 1	early enterocyte 2	46
+cycling cells 1	enteroendocrine	66
+cycling cells 1	FOXL1 FLC	141
+cycling cells 1	Erythroblasts	7
+cycling cells 1	BEST4 enterocyte prog	52
+cycling cells 1	enterocyte	52
+cycling cells 1	pericyte	107
+cycling cells 1	Venous EC	111
+cycling cells 1	ICC	69
+cycling cells 1	myofibroblast	136
+cycling cells 1	immune cells	57
+cycling cells 1	Arterial EC	87
+cycling cells 1	WNT4 FLC	156
+cycling cells 1	UPK3B Serosa	69
+cycling cells 1	Lymphatic EC	62
+uniform progenitor	SMC	101
+uniform progenitor	NTS+ cells	63
+uniform progenitor	Enteric neurons	75
+uniform progenitor	cycling cells 1	95
+uniform progenitor	uniform progenitor	51
+uniform progenitor	mesoderm 2	94
+uniform progenitor	early enterocyte 1	42
+uniform progenitor	mesoderm 1	85
+uniform progenitor	Neural crest cells	59
+uniform progenitor	cycling cells 2	76
+uniform progenitor	LGR5 stem	52
+uniform progenitor	Goblet prog	62
+uniform progenitor	early enterocyte 2	50
+uniform progenitor	enteroendocrine	68
+uniform progenitor	FOXL1 FLC	130
+uniform progenitor	Erythroblasts	6
+uniform progenitor	BEST4 enterocyte prog	51
+uniform progenitor	enterocyte	47
+uniform progenitor	pericyte	94
+uniform progenitor	Venous EC	104
+uniform progenitor	ICC	62
+uniform progenitor	myofibroblast	119
+uniform progenitor	immune cells	56
+uniform progenitor	Arterial EC	83
+uniform progenitor	WNT4 FLC	135
+uniform progenitor	UPK3B Serosa	58
+uniform progenitor	Lymphatic EC	58
+mesoderm 2	SMC	83
+mesoderm 2	NTS+ cells	58
+mesoderm 2	Enteric neurons	57
+mesoderm 2	cycling cells 1	106
+mesoderm 2	uniform progenitor	94
+mesoderm 2	mesoderm 2	32
+mesoderm 2	early enterocyte 1	42
+mesoderm 2	mesoderm 1	66
+mesoderm 2	Neural crest cells	56
+mesoderm 2	cycling cells 2	66
+mesoderm 2	LGR5 stem	90
+mesoderm 2	Goblet prog	85
+mesoderm 2	early enterocyte 2	65
+mesoderm 2	enteroendocrine	82
+mesoderm 2	FOXL1 FLC	97
+mesoderm 2	Erythroblasts	13
+mesoderm 2	BEST4 enterocyte prog	60
+mesoderm 2	enterocyte	59
+mesoderm 2	pericyte	92
+mesoderm 2	Venous EC	114
+mesoderm 2	ICC	52
+mesoderm 2	myofibroblast	102
+mesoderm 2	immune cells	45
+mesoderm 2	Arterial EC	92
+mesoderm 2	WNT4 FLC	106
+mesoderm 2	UPK3B Serosa	35
+mesoderm 2	Lymphatic EC	60
+early enterocyte 1	SMC	46
+early enterocyte 1	NTS+ cells	38
+early enterocyte 1	Enteric neurons	46
+early enterocyte 1	cycling cells 1	42
+early enterocyte 1	uniform progenitor	42
+early enterocyte 1	mesoderm 2	42
+early enterocyte 1	early enterocyte 1	12
+early enterocyte 1	mesoderm 1	46
+early enterocyte 1	Neural crest cells	26
+early enterocyte 1	cycling cells 2	32
+early enterocyte 1	LGR5 stem	29
+early enterocyte 1	Goblet prog	27
+early enterocyte 1	early enterocyte 2	31
+early enterocyte 1	enteroendocrine	33
+early enterocyte 1	FOXL1 FLC	64
+early enterocyte 1	Erythroblasts	2
+early enterocyte 1	BEST4 enterocyte prog	30
+early enterocyte 1	enterocyte	33
+early enterocyte 1	pericyte	43
+early enterocyte 1	Venous EC	62
+early enterocyte 1	ICC	32
+early enterocyte 1	myofibroblast	56
+early enterocyte 1	immune cells	42
+early enterocyte 1	Arterial EC	56
+early enterocyte 1	WNT4 FLC	77
+early enterocyte 1	UPK3B Serosa	34
+early enterocyte 1	Lymphatic EC	34
+mesoderm 1	SMC	77
+mesoderm 1	NTS+ cells	60
+mesoderm 1	Enteric neurons	57
+mesoderm 1	cycling cells 1	105
+mesoderm 1	uniform progenitor	85
+mesoderm 1	mesoderm 2	66
+mesoderm 1	early enterocyte 1	46
+mesoderm 1	mesoderm 1	29
+mesoderm 1	Neural crest cells	57
+mesoderm 1	cycling cells 2	71
+mesoderm 1	LGR5 stem	85
+mesoderm 1	Goblet prog	90
+mesoderm 1	early enterocyte 2	60
+mesoderm 1	enteroendocrine	88
+mesoderm 1	FOXL1 FLC	100
+mesoderm 1	Erythroblasts	10
+mesoderm 1	BEST4 enterocyte prog	57
+mesoderm 1	enterocyte	56
+mesoderm 1	pericyte	94
+mesoderm 1	Venous EC	109
+mesoderm 1	ICC	57
+mesoderm 1	myofibroblast	96
+mesoderm 1	immune cells	38
+mesoderm 1	Arterial EC	88
+mesoderm 1	WNT4 FLC	109
+mesoderm 1	UPK3B Serosa	38
+mesoderm 1	Lymphatic EC	49
+Neural crest cells	SMC	67
+Neural crest cells	NTS+ cells	32
+Neural crest cells	Enteric neurons	60
+Neural crest cells	cycling cells 1	60
+Neural crest cells	uniform progenitor	59
+Neural crest cells	mesoderm 2	56
+Neural crest cells	early enterocyte 1	26
+Neural crest cells	mesoderm 1	57
+Neural crest cells	Neural crest cells	27
+Neural crest cells	cycling cells 2	46
+Neural crest cells	LGR5 stem	46
+Neural crest cells	Goblet prog	49
+Neural crest cells	early enterocyte 2	30
+Neural crest cells	enteroendocrine	54
+Neural crest cells	FOXL1 FLC	85
+Neural crest cells	Erythroblasts	5
+Neural crest cells	BEST4 enterocyte prog	28
+Neural crest cells	enterocyte	34
+Neural crest cells	pericyte	77
+Neural crest cells	Venous EC	67
+Neural crest cells	ICC	51
+Neural crest cells	myofibroblast	74
+Neural crest cells	immune cells	31
+Neural crest cells	Arterial EC	60
+Neural crest cells	WNT4 FLC	100
+Neural crest cells	UPK3B Serosa	27
+Neural crest cells	Lymphatic EC	36
+cycling cells 2	SMC	78
+cycling cells 2	NTS+ cells	49
+cycling cells 2	Enteric neurons	69
+cycling cells 2	cycling cells 1	69
+cycling cells 2	uniform progenitor	76
+cycling cells 2	mesoderm 2	66
+cycling cells 2	early enterocyte 1	32
+cycling cells 2	mesoderm 1	71
+cycling cells 2	Neural crest cells	46
+cycling cells 2	cycling cells 2	27
+cycling cells 2	LGR5 stem	33
+cycling cells 2	Goblet prog	46
+cycling cells 2	early enterocyte 2	38
+cycling cells 2	enteroendocrine	43
+cycling cells 2	FOXL1 FLC	98
+cycling cells 2	Erythroblasts	5
+cycling cells 2	BEST4 enterocyte prog	40
+cycling cells 2	enterocyte	46
+cycling cells 2	pericyte	69
+cycling cells 2	Venous EC	86
+cycling cells 2	ICC	47
+cycling cells 2	myofibroblast	91
+cycling cells 2	immune cells	53
+cycling cells 2	Arterial EC	76
+cycling cells 2	WNT4 FLC	111
+cycling cells 2	UPK3B Serosa	48
+cycling cells 2	Lymphatic EC	53
+LGR5 stem	SMC	91
+LGR5 stem	NTS+ cells	39
+LGR5 stem	Enteric neurons	65
+LGR5 stem	cycling cells 1	50
+LGR5 stem	uniform progenitor	52
+LGR5 stem	mesoderm 2	90
+LGR5 stem	early enterocyte 1	29
+LGR5 stem	mesoderm 1	85
+LGR5 stem	Neural crest cells	46
+LGR5 stem	cycling cells 2	33
+LGR5 stem	LGR5 stem	23
+LGR5 stem	Goblet prog	43
+LGR5 stem	early enterocyte 2	32
+LGR5 stem	enteroendocrine	43
+LGR5 stem	FOXL1 FLC	134
+LGR5 stem	Erythroblasts	8
+LGR5 stem	BEST4 enterocyte prog	40
+LGR5 stem	enterocyte	48
+LGR5 stem	pericyte	105
+LGR5 stem	Venous EC	102
+LGR5 stem	ICC	71
+LGR5 stem	myofibroblast	103
+LGR5 stem	immune cells	51
+LGR5 stem	Arterial EC	92
+LGR5 stem	WNT4 FLC	135
+LGR5 stem	UPK3B Serosa	75
+LGR5 stem	Lymphatic EC	62
+Goblet prog	SMC	87
+Goblet prog	NTS+ cells	55
+Goblet prog	Enteric neurons	68
+Goblet prog	cycling cells 1	60
+Goblet prog	uniform progenitor	62
+Goblet prog	mesoderm 2	85
+Goblet prog	early enterocyte 1	27
+Goblet prog	mesoderm 1	90
+Goblet prog	Neural crest cells	49
+Goblet prog	cycling cells 2	46
+Goblet prog	LGR5 stem	43
+Goblet prog	Goblet prog	22
+Goblet prog	early enterocyte 2	32
+Goblet prog	enteroendocrine	42
+Goblet prog	FOXL1 FLC	118
+Goblet prog	Erythroblasts	6
+Goblet prog	BEST4 enterocyte prog	47
+Goblet prog	enterocyte	47
+Goblet prog	pericyte	97
+Goblet prog	Venous EC	101
+Goblet prog	ICC	67
+Goblet prog	myofibroblast	113
+Goblet prog	immune cells	57
+Goblet prog	Arterial EC	93
+Goblet prog	WNT4 FLC	139
+Goblet prog	UPK3B Serosa	64
+Goblet prog	Lymphatic EC	61
+early enterocyte 2	SMC	56
+early enterocyte 2	NTS+ cells	39
+early enterocyte 2	Enteric neurons	53
+early enterocyte 2	cycling cells 1	46
+early enterocyte 2	uniform progenitor	50
+early enterocyte 2	mesoderm 2	65
+early enterocyte 2	early enterocyte 1	31
+early enterocyte 2	mesoderm 1	60
+early enterocyte 2	Neural crest cells	30
+early enterocyte 2	cycling cells 2	38
+early enterocyte 2	LGR5 stem	32
+early enterocyte 2	Goblet prog	32
+early enterocyte 2	early enterocyte 2	19
+early enterocyte 2	enteroendocrine	36
+early enterocyte 2	FOXL1 FLC	93
+early enterocyte 2	Erythroblasts	4
+early enterocyte 2	BEST4 enterocyte prog	45
+early enterocyte 2	enterocyte	47
+early enterocyte 2	pericyte	63
+early enterocyte 2	Venous EC	73
+early enterocyte 2	ICC	55
+early enterocyte 2	myofibroblast	73
+early enterocyte 2	immune cells	50
+early enterocyte 2	Arterial EC	65
+early enterocyte 2	WNT4 FLC	96
+early enterocyte 2	UPK3B Serosa	50
+early enterocyte 2	Lymphatic EC	47
+enteroendocrine	SMC	78
+enteroendocrine	NTS+ cells	55
+enteroendocrine	Enteric neurons	73
+enteroendocrine	cycling cells 1	66
+enteroendocrine	uniform progenitor	68
+enteroendocrine	mesoderm 2	82
+enteroendocrine	early enterocyte 1	33
+enteroendocrine	mesoderm 1	88
+enteroendocrine	Neural crest cells	54
+enteroendocrine	cycling cells 2	43
+enteroendocrine	LGR5 stem	43
+enteroendocrine	Goblet prog	42
+enteroendocrine	early enterocyte 2	36
+enteroendocrine	enteroendocrine	23
+enteroendocrine	FOXL1 FLC	102
+enteroendocrine	Erythroblasts	5
+enteroendocrine	BEST4 enterocyte prog	46
+enteroendocrine	enterocyte	46
+enteroendocrine	pericyte	92
+enteroendocrine	Venous EC	94
+enteroendocrine	ICC	57
+enteroendocrine	myofibroblast	96
+enteroendocrine	immune cells	53
+enteroendocrine	Arterial EC	93
+enteroendocrine	WNT4 FLC	128
+enteroendocrine	UPK3B Serosa	54
+enteroendocrine	Lymphatic EC	57
+FOXL1 FLC	SMC	110
+FOXL1 FLC	NTS+ cells	92
+FOXL1 FLC	Enteric neurons	100
+FOXL1 FLC	cycling cells 1	141
+FOXL1 FLC	uniform progenitor	130
+FOXL1 FLC	mesoderm 2	97
+FOXL1 FLC	early enterocyte 1	64
+FOXL1 FLC	mesoderm 1	100
+FOXL1 FLC	Neural crest cells	85
+FOXL1 FLC	cycling cells 2	98
+FOXL1 FLC	LGR5 stem	134
+FOXL1 FLC	Goblet prog	118
+FOXL1 FLC	early enterocyte 2	93
+FOXL1 FLC	enteroendocrine	102
+FOXL1 FLC	FOXL1 FLC	80
+FOXL1 FLC	Erythroblasts	18
+FOXL1 FLC	BEST4 enterocyte prog	96
+FOXL1 FLC	enterocyte	83
+FOXL1 FLC	pericyte	142
+FOXL1 FLC	Venous EC	168
+FOXL1 FLC	ICC	92
+FOXL1 FLC	myofibroblast	159
+FOXL1 FLC	immune cells	65
+FOXL1 FLC	Arterial EC	134
+FOXL1 FLC	WNT4 FLC	178
+FOXL1 FLC	UPK3B Serosa	77
+FOXL1 FLC	Lymphatic EC	102
+Erythroblasts	SMC	10
+Erythroblasts	NTS+ cells	4
+Erythroblasts	Enteric neurons	3
+Erythroblasts	cycling cells 1	7
+Erythroblasts	uniform progenitor	6
+Erythroblasts	mesoderm 2	13
+Erythroblasts	early enterocyte 1	2
+Erythroblasts	mesoderm 1	10
+Erythroblasts	Neural crest cells	5
+Erythroblasts	cycling cells 2	5
+Erythroblasts	LGR5 stem	8
+Erythroblasts	Goblet prog	6
+Erythroblasts	early enterocyte 2	4
+Erythroblasts	enteroendocrine	5
+Erythroblasts	FOXL1 FLC	18
+Erythroblasts	Erythroblasts	2
+Erythroblasts	BEST4 enterocyte prog	11
+Erythroblasts	enterocyte	9
+Erythroblasts	pericyte	18
+Erythroblasts	Venous EC	22
+Erythroblasts	ICC	10
+Erythroblasts	myofibroblast	12
+Erythroblasts	immune cells	30
+Erythroblasts	Arterial EC	28
+Erythroblasts	WNT4 FLC	18
+Erythroblasts	UPK3B Serosa	12
+Erythroblasts	Lymphatic EC	23
+BEST4 enterocyte prog	SMC	53
+BEST4 enterocyte prog	NTS+ cells	42
+BEST4 enterocyte prog	Enteric neurons	45
+BEST4 enterocyte prog	cycling cells 1	52
+BEST4 enterocyte prog	uniform progenitor	51
+BEST4 enterocyte prog	mesoderm 2	60
+BEST4 enterocyte prog	early enterocyte 1	30
+BEST4 enterocyte prog	mesoderm 1	57
+BEST4 enterocyte prog	Neural crest cells	28
+BEST4 enterocyte prog	cycling cells 2	40
+BEST4 enterocyte prog	LGR5 stem	40
+BEST4 enterocyte prog	Goblet prog	47
+BEST4 enterocyte prog	early enterocyte 2	45
+BEST4 enterocyte prog	enteroendocrine	46
+BEST4 enterocyte prog	FOXL1 FLC	96
+BEST4 enterocyte prog	Erythroblasts	11
+BEST4 enterocyte prog	BEST4 enterocyte prog	37
+BEST4 enterocyte prog	enterocyte	66
+BEST4 enterocyte prog	pericyte	75
+BEST4 enterocyte prog	Venous EC	104
+BEST4 enterocyte prog	ICC	69
+BEST4 enterocyte prog	myofibroblast	71
+BEST4 enterocyte prog	immune cells	72
+BEST4 enterocyte prog	Arterial EC	105
+BEST4 enterocyte prog	WNT4 FLC	95
+BEST4 enterocyte prog	UPK3B Serosa	60
+BEST4 enterocyte prog	Lymphatic EC	89
+enterocyte	SMC	56
+enterocyte	NTS+ cells	43
+enterocyte	Enteric neurons	48
+enterocyte	cycling cells 1	52
+enterocyte	uniform progenitor	47
+enterocyte	mesoderm 2	59
+enterocyte	early enterocyte 1	33
+enterocyte	mesoderm 1	56
+enterocyte	Neural crest cells	34
+enterocyte	cycling cells 2	46
+enterocyte	LGR5 stem	48
+enterocyte	Goblet prog	47
+enterocyte	early enterocyte 2	47
+enterocyte	enteroendocrine	46
+enterocyte	FOXL1 FLC	83
+enterocyte	Erythroblasts	9
+enterocyte	BEST4 enterocyte prog	66
+enterocyte	enterocyte	28
+enterocyte	pericyte	70
+enterocyte	Venous EC	72
+enterocyte	ICC	56
+enterocyte	myofibroblast	71
+enterocyte	immune cells	49
+enterocyte	Arterial EC	83
+enterocyte	WNT4 FLC	89
+enterocyte	UPK3B Serosa	55
+enterocyte	Lymphatic EC	60
+pericyte	SMC	99
+pericyte	NTS+ cells	63
+pericyte	Enteric neurons	81
+pericyte	cycling cells 1	107
+pericyte	uniform progenitor	94
+pericyte	mesoderm 2	92
+pericyte	early enterocyte 1	43
+pericyte	mesoderm 1	94
+pericyte	Neural crest cells	77
+pericyte	cycling cells 2	69
+pericyte	LGR5 stem	105
+pericyte	Goblet prog	97
+pericyte	early enterocyte 2	63
+pericyte	enteroendocrine	92
+pericyte	FOXL1 FLC	142
+pericyte	Erythroblasts	18
+pericyte	BEST4 enterocyte prog	75
+pericyte	enterocyte	70
+pericyte	pericyte	69
+pericyte	Venous EC	157
+pericyte	ICC	83
+pericyte	myofibroblast	135
+pericyte	immune cells	56
+pericyte	Arterial EC	140
+pericyte	WNT4 FLC	154
+pericyte	UPK3B Serosa	64
+pericyte	Lymphatic EC	99
+Venous EC	SMC	117
+Venous EC	NTS+ cells	75
+Venous EC	Enteric neurons	71
+Venous EC	cycling cells 1	111
+Venous EC	uniform progenitor	104
+Venous EC	mesoderm 2	114
+Venous EC	early enterocyte 1	62
+Venous EC	mesoderm 1	109
+Venous EC	Neural crest cells	67
+Venous EC	cycling cells 2	86
+Venous EC	LGR5 stem	102
+Venous EC	Goblet prog	101
+Venous EC	early enterocyte 2	73
+Venous EC	enteroendocrine	94
+Venous EC	FOXL1 FLC	168
+Venous EC	Erythroblasts	22
+Venous EC	BEST4 enterocyte prog	104
+Venous EC	enterocyte	72
+Venous EC	pericyte	157
+Venous EC	Venous EC	63
+Venous EC	ICC	105
+Venous EC	myofibroblast	145
+Venous EC	immune cells	54
+Venous EC	Arterial EC	122
+Venous EC	WNT4 FLC	158
+Venous EC	UPK3B Serosa	85
+Venous EC	Lymphatic EC	84
+ICC	SMC	65
+ICC	NTS+ cells	45
+ICC	Enteric neurons	59
+ICC	cycling cells 1	69
+ICC	uniform progenitor	62
+ICC	mesoderm 2	52
+ICC	early enterocyte 1	32
+ICC	mesoderm 1	57
+ICC	Neural crest cells	51
+ICC	cycling cells 2	47
+ICC	LGR5 stem	71
+ICC	Goblet prog	67
+ICC	early enterocyte 2	55
+ICC	enteroendocrine	57
+ICC	FOXL1 FLC	92
+ICC	Erythroblasts	10
+ICC	BEST4 enterocyte prog	69
+ICC	enterocyte	56
+ICC	pericyte	83
+ICC	Venous EC	105
+ICC	ICC	28
+ICC	myofibroblast	75
+ICC	immune cells	45
+ICC	Arterial EC	103
+ICC	WNT4 FLC	98
+ICC	UPK3B Serosa	58
+ICC	Lymphatic EC	73
+myofibroblast	SMC	118
+myofibroblast	NTS+ cells	76
+myofibroblast	Enteric neurons	78
+myofibroblast	cycling cells 1	136
+myofibroblast	uniform progenitor	119
+myofibroblast	mesoderm 2	102
+myofibroblast	early enterocyte 1	56
+myofibroblast	mesoderm 1	96
+myofibroblast	Neural crest cells	74
+myofibroblast	cycling cells 2	91
+myofibroblast	LGR5 stem	103
+myofibroblast	Goblet prog	113
+myofibroblast	early enterocyte 2	73
+myofibroblast	enteroendocrine	96
+myofibroblast	FOXL1 FLC	159
+myofibroblast	Erythroblasts	12
+myofibroblast	BEST4 enterocyte prog	71
+myofibroblast	enterocyte	71
+myofibroblast	pericyte	135
+myofibroblast	Venous EC	145
+myofibroblast	ICC	75
+myofibroblast	myofibroblast	65
+myofibroblast	immune cells	50
+myofibroblast	Arterial EC	121
+myofibroblast	WNT4 FLC	154
+myofibroblast	UPK3B Serosa	51
+myofibroblast	Lymphatic EC	78
+immune cells	SMC	47
+immune cells	NTS+ cells	46
+immune cells	Enteric neurons	30
+immune cells	cycling cells 1	57
+immune cells	uniform progenitor	56
+immune cells	mesoderm 2	45
+immune cells	early enterocyte 1	42
+immune cells	mesoderm 1	38
+immune cells	Neural crest cells	31
+immune cells	cycling cells 2	53
+immune cells	LGR5 stem	51
+immune cells	Goblet prog	57
+immune cells	early enterocyte 2	50
+immune cells	enteroendocrine	53
+immune cells	FOXL1 FLC	65
+immune cells	Erythroblasts	30
+immune cells	BEST4 enterocyte prog	72
+immune cells	enterocyte	49
+immune cells	pericyte	56
+immune cells	Venous EC	54
+immune cells	ICC	45
+immune cells	myofibroblast	50
+immune cells	immune cells	37
+immune cells	Arterial EC	65
+immune cells	WNT4 FLC	57
+immune cells	UPK3B Serosa	32
+immune cells	Lymphatic EC	45
+Arterial EC	SMC	92
+Arterial EC	NTS+ cells	69
+Arterial EC	Enteric neurons	58
+Arterial EC	cycling cells 1	87
+Arterial EC	uniform progenitor	83
+Arterial EC	mesoderm 2	92
+Arterial EC	early enterocyte 1	56
+Arterial EC	mesoderm 1	88
+Arterial EC	Neural crest cells	60
+Arterial EC	cycling cells 2	76
+Arterial EC	LGR5 stem	92
+Arterial EC	Goblet prog	93
+Arterial EC	early enterocyte 2	65
+Arterial EC	enteroendocrine	93
+Arterial EC	FOXL1 FLC	134
+Arterial EC	Erythroblasts	28
+Arterial EC	BEST4 enterocyte prog	105
+Arterial EC	enterocyte	83
+Arterial EC	pericyte	140
+Arterial EC	Venous EC	122
+Arterial EC	ICC	103
+Arterial EC	myofibroblast	121
+Arterial EC	immune cells	65
+Arterial EC	Arterial EC	67
+Arterial EC	WNT4 FLC	142
+Arterial EC	UPK3B Serosa	85
+Arterial EC	Lymphatic EC	101
+WNT4 FLC	SMC	119
+WNT4 FLC	NTS+ cells	87
+WNT4 FLC	Enteric neurons	95
+WNT4 FLC	cycling cells 1	156
+WNT4 FLC	uniform progenitor	135
+WNT4 FLC	mesoderm 2	106
+WNT4 FLC	early enterocyte 1	77
+WNT4 FLC	mesoderm 1	109
+WNT4 FLC	Neural crest cells	100
+WNT4 FLC	cycling cells 2	111
+WNT4 FLC	LGR5 stem	135
+WNT4 FLC	Goblet prog	139
+WNT4 FLC	early enterocyte 2	96
+WNT4 FLC	enteroendocrine	128
+WNT4 FLC	FOXL1 FLC	178
+WNT4 FLC	Erythroblasts	18
+WNT4 FLC	BEST4 enterocyte prog	95
+WNT4 FLC	enterocyte	89
+WNT4 FLC	pericyte	154
+WNT4 FLC	Venous EC	158
+WNT4 FLC	ICC	98
+WNT4 FLC	myofibroblast	154
+WNT4 FLC	immune cells	57
+WNT4 FLC	Arterial EC	142
+WNT4 FLC	WNT4 FLC	93
+WNT4 FLC	UPK3B Serosa	68
+WNT4 FLC	Lymphatic EC	95
+UPK3B Serosa	SMC	46
+UPK3B Serosa	NTS+ cells	53
+UPK3B Serosa	Enteric neurons	40
+UPK3B Serosa	cycling cells 1	69
+UPK3B Serosa	uniform progenitor	58
+UPK3B Serosa	mesoderm 2	35
+UPK3B Serosa	early enterocyte 1	34
+UPK3B Serosa	mesoderm 1	38
+UPK3B Serosa	Neural crest cells	27
+UPK3B Serosa	cycling cells 2	48
+UPK3B Serosa	LGR5 stem	75
+UPK3B Serosa	Goblet prog	64
+UPK3B Serosa	early enterocyte 2	50
+UPK3B Serosa	enteroendocrine	54
+UPK3B Serosa	FOXL1 FLC	77
+UPK3B Serosa	Erythroblasts	12
+UPK3B Serosa	BEST4 enterocyte prog	60
+UPK3B Serosa	enterocyte	55
+UPK3B Serosa	pericyte	64
+UPK3B Serosa	Venous EC	85
+UPK3B Serosa	ICC	58
+UPK3B Serosa	myofibroblast	51
+UPK3B Serosa	immune cells	32
+UPK3B Serosa	Arterial EC	85
+UPK3B Serosa	WNT4 FLC	68
+UPK3B Serosa	UPK3B Serosa	24
+UPK3B Serosa	Lymphatic EC	75
+Lymphatic EC	SMC	58
+Lymphatic EC	NTS+ cells	49
+Lymphatic EC	Enteric neurons	38
+Lymphatic EC	cycling cells 1	62
+Lymphatic EC	uniform progenitor	58
+Lymphatic EC	mesoderm 2	60
+Lymphatic EC	early enterocyte 1	34
+Lymphatic EC	mesoderm 1	49
+Lymphatic EC	Neural crest cells	36
+Lymphatic EC	cycling cells 2	53
+Lymphatic EC	LGR5 stem	62
+Lymphatic EC	Goblet prog	61
+Lymphatic EC	early enterocyte 2	47
+Lymphatic EC	enteroendocrine	57
+Lymphatic EC	FOXL1 FLC	102
+Lymphatic EC	Erythroblasts	23
+Lymphatic EC	BEST4 enterocyte prog	89
+Lymphatic EC	enterocyte	60
+Lymphatic EC	pericyte	99
+Lymphatic EC	Venous EC	84
+Lymphatic EC	ICC	73
+Lymphatic EC	myofibroblast	78
+Lymphatic EC	immune cells	45
+Lymphatic EC	Arterial EC	101
+Lymphatic EC	WNT4 FLC	95
+Lymphatic EC	UPK3B Serosa	75
+Lymphatic EC	Lymphatic EC	46

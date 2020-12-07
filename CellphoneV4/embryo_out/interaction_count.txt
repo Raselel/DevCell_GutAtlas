@@ -1,0 +1,28 @@
+	all_sum
+enterocyte	2209
+BEST4 enterocyte prog	1920
+cycling cells 1	2310
+cycling cells 2	2152
+Goblet prog	2253
+early enterocyte 1	2047
+LGR5 stem	2202
+early enterocyte 2	2115
+Erythroblasts	27
+myofibroblast	3133
+enteroendocrine	2342
+SMC	3130
+Neural crest cells	2258
+NTS+ cells	1362
+immune cells	2016
+Enteric neurons	2340
+UPK3B Serosa	4112
+uniform progenitor	2572
+Arterial EC	3686
+Venous EC	3457
+Lymphatic EC	2860
+pericyte	3233
+mesoderm 2	3392
+FOXL1 FLC	3982
+ICC	2938
+WNT4 FLC	3998
+mesoderm 1	1851
