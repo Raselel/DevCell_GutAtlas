@@ -1,0 +1,1682 @@
+SOURCE	TARGET	count
+enterocyte	enterocyte	37
+enterocyte	early enterocyte	68
+enterocyte	Goblet cell	66
+enterocyte	TA	87
+enterocyte	crypt	73
+enterocyte	F3 FLC	105
+enterocyte	ADAMDEC1 FLC	102
+enterocyte	lymphatic EC	55
+enterocyte	IgA plasma cell	13
+enterocyte	naïve CD4 T	16
+enterocyte	CD8 T cell	38
+enterocyte	Venous EC	73
+enterocyte	IgG plasma cell	13
+enterocyte	BEST4 enterocyte	83
+enterocyte	cDC2	50
+enterocyte	Paneth cell	50
+enterocyte	cycling myeloid	69
+enterocyte	Macrophage	70
+enterocyte	Glial cell	64
+enterocyte	Treg	38
+enterocyte	gd T cell	35
+enterocyte	myofibroblast	73
+enterocyte	memory B cell	30
+enterocyte	Arterial EC	67
+enterocyte	cDC1	40
+enterocyte	IL2RG	87
+enterocyte	Tuft	67
+enterocyte	Monocyte	59
+enterocyte	pericyte	69
+enterocyte	Inflammatory FLC	112
+enterocyte	Activated T	38
+enterocyte	enteroendocrine	53
+enterocyte	B cell	35
+enterocyte	FCER2 B cell	25
+enterocyte	cycling B cell	30
+enterocyte	Tfh	28
+enterocyte	activated B cell	21
+enterocyte	cycling plasma	16
+enterocyte	pDC	32
+enterocyte	LAMP3+ DC	27
+enterocyte	mast cells	9
+early enterocyte	enterocyte	68
+early enterocyte	early enterocyte	25
+early enterocyte	Goblet cell	55
+early enterocyte	TA	70
+early enterocyte	crypt	59
+early enterocyte	F3 FLC	99
+early enterocyte	ADAMDEC1 FLC	89
+early enterocyte	lymphatic EC	51
+early enterocyte	IgA plasma cell	7
+early enterocyte	naïve CD4 T	11
+early enterocyte	CD8 T cell	30
+early enterocyte	Venous EC	65
+early enterocyte	IgG plasma cell	7
+early enterocyte	BEST4 enterocyte	67
+early enterocyte	cDC2	47
+early enterocyte	Paneth cell	27
+early enterocyte	cycling myeloid	55
+early enterocyte	Macrophage	63
+early enterocyte	Glial cell	57
+early enterocyte	Treg	30
+early enterocyte	gd T cell	27
+early enterocyte	myofibroblast	69
+early enterocyte	memory B cell	21
+early enterocyte	Arterial EC	62
+early enterocyte	cDC1	35
+early enterocyte	IL2RG	75
+early enterocyte	Tuft	52
+early enterocyte	Monocyte	55
+early enterocyte	pericyte	59
+early enterocyte	Inflammatory FLC	104
+early enterocyte	Activated T	32
+early enterocyte	enteroendocrine	39
+early enterocyte	B cell	32
+early enterocyte	FCER2 B cell	23
+early enterocyte	cycling B cell	21
+early enterocyte	Tfh	24
+early enterocyte	activated B cell	15
+early enterocyte	cycling plasma	9
+early enterocyte	pDC	24
+early enterocyte	LAMP3+ DC	22
+early enterocyte	mast cells	8
+Goblet cell	enterocyte	66
+Goblet cell	early enterocyte	55
+Goblet cell	Goblet cell	32
+Goblet cell	TA	79
+Goblet cell	crypt	69
+Goblet cell	F3 FLC	119
+Goblet cell	ADAMDEC1 FLC	104
+Goblet cell	lymphatic EC	52
+Goblet cell	IgA plasma cell	16
+Goblet cell	naïve CD4 T	16
+Goblet cell	CD8 T cell	37
+Goblet cell	Venous EC	79
+Goblet cell	IgG plasma cell	12
+Goblet cell	BEST4 enterocyte	83
+Goblet cell	cDC2	56
+Goblet cell	Paneth cell	55
+Goblet cell	cycling myeloid	61
+Goblet cell	Macrophage	72
+Goblet cell	Glial cell	78
+Goblet cell	Treg	31
+Goblet cell	gd T cell	34
+Goblet cell	myofibroblast	84
+Goblet cell	memory B cell	28
+Goblet cell	Arterial EC	68
+Goblet cell	cDC1	40
+Goblet cell	IL2RG	86
+Goblet cell	Tuft	73
+Goblet cell	Monocyte	66
+Goblet cell	pericyte	79
+Goblet cell	Inflammatory FLC	119
+Goblet cell	Activated T	31
+Goblet cell	enteroendocrine	69
+Goblet cell	B cell	32
+Goblet cell	FCER2 B cell	21
+Goblet cell	cycling B cell	26
+Goblet cell	Tfh	26
+Goblet cell	activated B cell	24
+Goblet cell	cycling plasma	12
+Goblet cell	pDC	27
+Goblet cell	LAMP3+ DC	24
+Goblet cell	mast cells	9
+TA	enterocyte	87
+TA	early enterocyte	70
+TA	Goblet cell	79
+TA	TA	37
+TA	crypt	75
+TA	F3 FLC	163
+TA	ADAMDEC1 FLC	131
+TA	lymphatic EC	67
+TA	IgA plasma cell	10
+TA	naïve CD4 T	21
+TA	CD8 T cell	45
+TA	Venous EC	94
+TA	IgG plasma cell	7
+TA	BEST4 enterocyte	91
+TA	cDC2	60
+TA	Paneth cell	30
+TA	cycling myeloid	66
+TA	Macrophage	81
+TA	Glial cell	91
+TA	Treg	36
+TA	gd T cell	39
+TA	myofibroblast	121
+TA	memory B cell	32
+TA	Arterial EC	110
+TA	cDC1	42
+TA	IL2RG	92
+TA	Tuft	69
+TA	Monocyte	75
+TA	pericyte	95
+TA	Inflammatory FLC	150
+TA	Activated T	44
+TA	enteroendocrine	66
+TA	B cell	38
+TA	FCER2 B cell	29
+TA	cycling B cell	24
+TA	Tfh	31
+TA	activated B cell	19
+TA	cycling plasma	12
+TA	pDC	30
+TA	LAMP3+ DC	27
+TA	mast cells	11
+crypt	enterocyte	73
+crypt	early enterocyte	59
+crypt	Goblet cell	69
+crypt	TA	75
+crypt	crypt	35
+crypt	F3 FLC	138
+crypt	ADAMDEC1 FLC	115
+crypt	lymphatic EC	60
+crypt	IgA plasma cell	9
+crypt	naïve CD4 T	18
+crypt	CD8 T cell	37
+crypt	Venous EC	80
+crypt	IgG plasma cell	7
+crypt	BEST4 enterocyte	79
+crypt	cDC2	55
+crypt	Paneth cell	34
+crypt	cycling myeloid	56
+crypt	Macrophage	75
+crypt	Glial cell	80
+crypt	Treg	31
+crypt	gd T cell	33
+crypt	myofibroblast	96
+crypt	memory B cell	24
+crypt	Arterial EC	84
+crypt	cDC1	37
+crypt	IL2RG	89
+crypt	Tuft	66
+crypt	Monocyte	67
+crypt	pericyte	80
+crypt	Inflammatory FLC	132
+crypt	Activated T	40
+crypt	enteroendocrine	54
+crypt	B cell	31
+crypt	FCER2 B cell	25
+crypt	cycling B cell	19
+crypt	Tfh	26
+crypt	activated B cell	18
+crypt	cycling plasma	11
+crypt	pDC	22
+crypt	LAMP3+ DC	24
+crypt	mast cells	8
+F3 FLC	enterocyte	105
+F3 FLC	early enterocyte	99
+F3 FLC	Goblet cell	119
+F3 FLC	TA	163
+F3 FLC	crypt	138
+F3 FLC	F3 FLC	113
+F3 FLC	ADAMDEC1 FLC	168
+F3 FLC	lymphatic EC	99
+F3 FLC	IgA plasma cell	23
+F3 FLC	naïve CD4 T	15
+F3 FLC	CD8 T cell	58
+F3 FLC	Venous EC	166
+F3 FLC	IgG plasma cell	20
+F3 FLC	BEST4 enterocyte	152
+F3 FLC	cDC2	59
+F3 FLC	Paneth cell	133
+F3 FLC	cycling myeloid	112
+F3 FLC	Macrophage	82
+F3 FLC	Glial cell	165
+F3 FLC	Treg	35
+F3 FLC	gd T cell	56
+F3 FLC	myofibroblast	190
+F3 FLC	memory B cell	28
+F3 FLC	Arterial EC	154
+F3 FLC	cDC1	56
+F3 FLC	IL2RG	124
+F3 FLC	Tuft	153
+F3 FLC	Monocyte	77
+F3 FLC	pericyte	153
+F3 FLC	Inflammatory FLC	219
+F3 FLC	Activated T	50
+F3 FLC	enteroendocrine	132
+F3 FLC	B cell	46
+F3 FLC	FCER2 B cell	27
+F3 FLC	cycling B cell	37
+F3 FLC	Tfh	27
+F3 FLC	activated B cell	30
+F3 FLC	cycling plasma	19
+F3 FLC	pDC	37
+F3 FLC	LAMP3+ DC	27
+F3 FLC	mast cells	6
+ADAMDEC1 FLC	enterocyte	102
+ADAMDEC1 FLC	early enterocyte	89
+ADAMDEC1 FLC	Goblet cell	104
+ADAMDEC1 FLC	TA	131
+ADAMDEC1 FLC	crypt	115
+ADAMDEC1 FLC	F3 FLC	168
+ADAMDEC1 FLC	ADAMDEC1 FLC	61
+ADAMDEC1 FLC	lymphatic EC	87
+ADAMDEC1 FLC	IgA plasma cell	20
+ADAMDEC1 FLC	naïve CD4 T	18
+ADAMDEC1 FLC	CD8 T cell	60
+ADAMDEC1 FLC	Venous EC	135
+ADAMDEC1 FLC	IgG plasma cell	22
+ADAMDEC1 FLC	BEST4 enterocyte	129
+ADAMDEC1 FLC	cDC2	78
+ADAMDEC1 FLC	Paneth cell	116
+ADAMDEC1 FLC	cycling myeloid	113
+ADAMDEC1 FLC	Macrophage	86
+ADAMDEC1 FLC	Glial cell	117
+ADAMDEC1 FLC	Treg	42
+ADAMDEC1 FLC	gd T cell	60
+ADAMDEC1 FLC	myofibroblast	147
+ADAMDEC1 FLC	memory B cell	34
+ADAMDEC1 FLC	Arterial EC	125
+ADAMDEC1 FLC	cDC1	57
+ADAMDEC1 FLC	IL2RG	115
+ADAMDEC1 FLC	Tuft	123
+ADAMDEC1 FLC	Monocyte	96
+ADAMDEC1 FLC	pericyte	108
+ADAMDEC1 FLC	Inflammatory FLC	177
+ADAMDEC1 FLC	Activated T	54
+ADAMDEC1 FLC	enteroendocrine	116
+ADAMDEC1 FLC	B cell	45
+ADAMDEC1 FLC	FCER2 B cell	31
+ADAMDEC1 FLC	cycling B cell	41
+ADAMDEC1 FLC	Tfh	32
+ADAMDEC1 FLC	activated B cell	33
+ADAMDEC1 FLC	cycling plasma	29
+ADAMDEC1 FLC	pDC	36
+ADAMDEC1 FLC	LAMP3+ DC	36
+ADAMDEC1 FLC	mast cells	8
+lymphatic EC	enterocyte	55
+lymphatic EC	early enterocyte	51
+lymphatic EC	Goblet cell	52
+lymphatic EC	TA	67
+lymphatic EC	crypt	60
+lymphatic EC	F3 FLC	99
+lymphatic EC	ADAMDEC1 FLC	87
+lymphatic EC	lymphatic EC	25
+lymphatic EC	IgA plasma cell	19
+lymphatic EC	naïve CD4 T	18
+lymphatic EC	CD8 T cell	42
+lymphatic EC	Venous EC	81
+lymphatic EC	IgG plasma cell	16
+lymphatic EC	BEST4 enterocyte	71
+lymphatic EC	cDC2	57
+lymphatic EC	Paneth cell	55
+lymphatic EC	cycling myeloid	74
+lymphatic EC	Macrophage	68
+lymphatic EC	Glial cell	74
+lymphatic EC	Treg	36
+lymphatic EC	gd T cell	39
+lymphatic EC	myofibroblast	97
+lymphatic EC	memory B cell	22
+lymphatic EC	Arterial EC	74
+lymphatic EC	cDC1	44
+lymphatic EC	IL2RG	68
+lymphatic EC	Tuft	73
+lymphatic EC	Monocyte	71
+lymphatic EC	pericyte	87
+lymphatic EC	Inflammatory FLC	107
+lymphatic EC	Activated T	38
+lymphatic EC	enteroendocrine	57
+lymphatic EC	B cell	34
+lymphatic EC	FCER2 B cell	22
+lymphatic EC	cycling B cell	23
+lymphatic EC	Tfh	24
+lymphatic EC	activated B cell	23
+lymphatic EC	cycling plasma	17
+lymphatic EC	pDC	31
+lymphatic EC	LAMP3+ DC	26
+lymphatic EC	mast cells	3
+IgA plasma cell	enterocyte	13
+IgA plasma cell	early enterocyte	7
+IgA plasma cell	Goblet cell	16
+IgA plasma cell	TA	10
+IgA plasma cell	crypt	9
+IgA plasma cell	F3 FLC	23
+IgA plasma cell	ADAMDEC1 FLC	20
+IgA plasma cell	lymphatic EC	19
+IgA plasma cell	IgA plasma cell	1
+IgA plasma cell	naïve CD4 T	3
+IgA plasma cell	CD8 T cell	18
+IgA plasma cell	Venous EC	23
+IgA plasma cell	IgG plasma cell	2
+IgA plasma cell	BEST4 enterocyte	11
+IgA plasma cell	cDC2	21
+IgA plasma cell	Paneth cell	4
+IgA plasma cell	cycling myeloid	17
+IgA plasma cell	Macrophage	31
+IgA plasma cell	Glial cell	20
+IgA plasma cell	Treg	12
+IgA plasma cell	gd T cell	17
+IgA plasma cell	myofibroblast	18
+IgA plasma cell	memory B cell	6
+IgA plasma cell	Arterial EC	19
+IgA plasma cell	cDC1	12
+IgA plasma cell	IL2RG	14
+IgA plasma cell	Tuft	9
+IgA plasma cell	Monocyte	28
+IgA plasma cell	pericyte	14
+IgA plasma cell	Inflammatory FLC	26
+IgA plasma cell	Activated T	18
+IgA plasma cell	enteroendocrine	9
+IgA plasma cell	B cell	16
+IgA plasma cell	FCER2 B cell	7
+IgA plasma cell	cycling B cell	10
+IgA plasma cell	Tfh	10
+IgA plasma cell	activated B cell	6
+IgA plasma cell	cycling plasma	3
+IgA plasma cell	pDC	10
+IgA plasma cell	LAMP3+ DC	11
+IgA plasma cell	mast cells	1
+naïve CD4 T	enterocyte	16
+naïve CD4 T	early enterocyte	11
+naïve CD4 T	Goblet cell	16
+naïve CD4 T	TA	21
+naïve CD4 T	crypt	18
+naïve CD4 T	F3 FLC	15
+naïve CD4 T	ADAMDEC1 FLC	18
+naïve CD4 T	lymphatic EC	18
+naïve CD4 T	IgA plasma cell	3
+naïve CD4 T	naïve CD4 T	5
+naïve CD4 T	CD8 T cell	23
+naïve CD4 T	Venous EC	24
+naïve CD4 T	IgG plasma cell	3
+naïve CD4 T	BEST4 enterocyte	21
+naïve CD4 T	cDC2	31
+naïve CD4 T	Paneth cell	14
+naïve CD4 T	cycling myeloid	32
+naïve CD4 T	Macrophage	32
+naïve CD4 T	Glial cell	16
+naïve CD4 T	Treg	15
+naïve CD4 T	gd T cell	22
+naïve CD4 T	myofibroblast	13
+naïve CD4 T	memory B cell	16
+naïve CD4 T	Arterial EC	21
+naïve CD4 T	cDC1	18
+naïve CD4 T	IL2RG	20
+naïve CD4 T	Tuft	20
+naïve CD4 T	Monocyte	33
+naïve CD4 T	pericyte	13
+naïve CD4 T	Inflammatory FLC	24
+naïve CD4 T	Activated T	15
+naïve CD4 T	enteroendocrine	15
+naïve CD4 T	B cell	20
+naïve CD4 T	FCER2 B cell	17
+naïve CD4 T	cycling B cell	17
+naïve CD4 T	Tfh	10
+naïve CD4 T	activated B cell	10
+naïve CD4 T	cycling plasma	8
+naïve CD4 T	pDC	9
+naïve CD4 T	LAMP3+ DC	13
+naïve CD4 T	mast cells	3
+CD8 T cell	enterocyte	38
+CD8 T cell	early enterocyte	30
+CD8 T cell	Goblet cell	37
+CD8 T cell	TA	45
+CD8 T cell	crypt	37
+CD8 T cell	F3 FLC	58
+CD8 T cell	ADAMDEC1 FLC	60
+CD8 T cell	lymphatic EC	42
+CD8 T cell	IgA plasma cell	18
+CD8 T cell	naïve CD4 T	23
+CD8 T cell	CD8 T cell	18
+CD8 T cell	Venous EC	53
+CD8 T cell	IgG plasma cell	15
+CD8 T cell	BEST4 enterocyte	46
+CD8 T cell	cDC2	57
+CD8 T cell	Paneth cell	35
+CD8 T cell	cycling myeloid	59
+CD8 T cell	Macrophage	58
+CD8 T cell	Glial cell	56
+CD8 T cell	Treg	34
+CD8 T cell	gd T cell	34
+CD8 T cell	myofibroblast	48
+CD8 T cell	memory B cell	31
+CD8 T cell	Arterial EC	48
+CD8 T cell	cDC1	36
+CD8 T cell	IL2RG	45
+CD8 T cell	Tuft	43
+CD8 T cell	Monocyte	63
+CD8 T cell	pericyte	41
+CD8 T cell	Inflammatory FLC	67
+CD8 T cell	Activated T	31
+CD8 T cell	enteroendocrine	31
+CD8 T cell	B cell	37
+CD8 T cell	FCER2 B cell	30
+CD8 T cell	cycling B cell	23
+CD8 T cell	Tfh	26
+CD8 T cell	activated B cell	24
+CD8 T cell	cycling plasma	21
+CD8 T cell	pDC	19
+CD8 T cell	LAMP3+ DC	22
+CD8 T cell	mast cells	4
+Venous EC	enterocyte	73
+Venous EC	early enterocyte	65
+Venous EC	Goblet cell	79
+Venous EC	TA	94
+Venous EC	crypt	80
+Venous EC	F3 FLC	166
+Venous EC	ADAMDEC1 FLC	135
+Venous EC	lymphatic EC	81
+Venous EC	IgA plasma cell	23
+Venous EC	naïve CD4 T	24
+Venous EC	CD8 T cell	53
+Venous EC	Venous EC	70
+Venous EC	IgG plasma cell	22
+Venous EC	BEST4 enterocyte	99
+Venous EC	cDC2	79
+Venous EC	Paneth cell	83
+Venous EC	cycling myeloid	104
+Venous EC	Macrophage	104
+Venous EC	Glial cell	117
+Venous EC	Treg	49
+Venous EC	gd T cell	56
+Venous EC	myofibroblast	149
+Venous EC	memory B cell	27
+Venous EC	Arterial EC	121
+Venous EC	cDC1	70
+Venous EC	IL2RG	98
+Venous EC	Tuft	100
+Venous EC	Monocyte	92
+Venous EC	pericyte	130
+Venous EC	Inflammatory FLC	165
+Venous EC	Activated T	54
+Venous EC	enteroendocrine	90
+Venous EC	B cell	45
+Venous EC	FCER2 B cell	28
+Venous EC	cycling B cell	35
+Venous EC	Tfh	32
+Venous EC	activated B cell	39
+Venous EC	cycling plasma	31
+Venous EC	pDC	51
+Venous EC	LAMP3+ DC	46
+Venous EC	mast cells	10
+IgG plasma cell	enterocyte	13
+IgG plasma cell	early enterocyte	7
+IgG plasma cell	Goblet cell	12
+IgG plasma cell	TA	7
+IgG plasma cell	crypt	7
+IgG plasma cell	F3 FLC	20
+IgG plasma cell	ADAMDEC1 FLC	22
+IgG plasma cell	lymphatic EC	16
+IgG plasma cell	IgA plasma cell	2
+IgG plasma cell	naïve CD4 T	3
+IgG plasma cell	CD8 T cell	15
+IgG plasma cell	Venous EC	22
+IgG plasma cell	IgG plasma cell	2
+IgG plasma cell	BEST4 enterocyte	10
+IgG plasma cell	cDC2	18
+IgG plasma cell	Paneth cell	2
+IgG plasma cell	cycling myeloid	14
+IgG plasma cell	Macrophage	27
+IgG plasma cell	Glial cell	22
+IgG plasma cell	Treg	11
+IgG plasma cell	gd T cell	15
+IgG plasma cell	myofibroblast	18
+IgG plasma cell	memory B cell	5
+IgG plasma cell	Arterial EC	17
+IgG plasma cell	cDC1	15
+IgG plasma cell	IL2RG	14
+IgG plasma cell	Tuft	6
+IgG plasma cell	Monocyte	27
+IgG plasma cell	pericyte	13
+IgG plasma cell	Inflammatory FLC	26
+IgG plasma cell	Activated T	15
+IgG plasma cell	enteroendocrine	4
+IgG plasma cell	B cell	14
+IgG plasma cell	FCER2 B cell	6
+IgG plasma cell	cycling B cell	10
+IgG plasma cell	Tfh	12
+IgG plasma cell	activated B cell	6
+IgG plasma cell	cycling plasma	1
+IgG plasma cell	pDC	7
+IgG plasma cell	LAMP3+ DC	12
+IgG plasma cell	mast cells	1
+BEST4 enterocyte	enterocyte	83
+BEST4 enterocyte	early enterocyte	67
+BEST4 enterocyte	Goblet cell	83
+BEST4 enterocyte	TA	91
+BEST4 enterocyte	crypt	79
+BEST4 enterocyte	F3 FLC	152
+BEST4 enterocyte	ADAMDEC1 FLC	129
+BEST4 enterocyte	lymphatic EC	71
+BEST4 enterocyte	IgA plasma cell	11
+BEST4 enterocyte	naïve CD4 T	21
+BEST4 enterocyte	CD8 T cell	46
+BEST4 enterocyte	Venous EC	99
+BEST4 enterocyte	IgG plasma cell	10
+BEST4 enterocyte	BEST4 enterocyte	47
+BEST4 enterocyte	cDC2	62
+BEST4 enterocyte	Paneth cell	41
+BEST4 enterocyte	cycling myeloid	77
+BEST4 enterocyte	Macrophage	82
+BEST4 enterocyte	Glial cell	86
+BEST4 enterocyte	Treg	40
+BEST4 enterocyte	gd T cell	45
+BEST4 enterocyte	myofibroblast	105
+BEST4 enterocyte	memory B cell	29
+BEST4 enterocyte	Arterial EC	91
+BEST4 enterocyte	cDC1	45
+BEST4 enterocyte	IL2RG	101
+BEST4 enterocyte	Tuft	83
+BEST4 enterocyte	Monocyte	77
+BEST4 enterocyte	pericyte	98
+BEST4 enterocyte	Inflammatory FLC	146
+BEST4 enterocyte	Activated T	43
+BEST4 enterocyte	enteroendocrine	69
+BEST4 enterocyte	B cell	34
+BEST4 enterocyte	FCER2 B cell	26
+BEST4 enterocyte	cycling B cell	28
+BEST4 enterocyte	Tfh	31
+BEST4 enterocyte	activated B cell	23
+BEST4 enterocyte	cycling plasma	14
+BEST4 enterocyte	pDC	43
+BEST4 enterocyte	LAMP3+ DC	30
+BEST4 enterocyte	mast cells	10
+cDC2	enterocyte	50
+cDC2	early enterocyte	47
+cDC2	Goblet cell	56
+cDC2	TA	60
+cDC2	crypt	55
+cDC2	F3 FLC	59
+cDC2	ADAMDEC1 FLC	78
+cDC2	lymphatic EC	57
+cDC2	IgA plasma cell	21
+cDC2	naïve CD4 T	31
+cDC2	CD8 T cell	57
+cDC2	Venous EC	79
+cDC2	IgG plasma cell	18
+cDC2	BEST4 enterocyte	62
+cDC2	cDC2	39
+cDC2	Paneth cell	42
+cDC2	cycling myeloid	87
+cDC2	Macrophage	96
+cDC2	Glial cell	51
+cDC2	Treg	53
+cDC2	gd T cell	54
+cDC2	myofibroblast	53
+cDC2	memory B cell	40
+cDC2	Arterial EC	71
+cDC2	cDC1	50
+cDC2	IL2RG	68
+cDC2	Tuft	51
+cDC2	Monocyte	91
+cDC2	pericyte	51
+cDC2	Inflammatory FLC	89
+cDC2	Activated T	59
+cDC2	enteroendocrine	50
+cDC2	B cell	44
+cDC2	FCER2 B cell	35
+cDC2	cycling B cell	39
+cDC2	Tfh	42
+cDC2	activated B cell	31
+cDC2	cycling plasma	24
+cDC2	pDC	39
+cDC2	LAMP3+ DC	31
+cDC2	mast cells	12
+Paneth cell	enterocyte	50
+Paneth cell	early enterocyte	27
+Paneth cell	Goblet cell	55
+Paneth cell	TA	30
+Paneth cell	crypt	34
+Paneth cell	F3 FLC	133
+Paneth cell	ADAMDEC1 FLC	116
+Paneth cell	lymphatic EC	55
+Paneth cell	IgA plasma cell	4
+Paneth cell	naïve CD4 T	14
+Paneth cell	CD8 T cell	35
+Paneth cell	Venous EC	83
+Paneth cell	IgG plasma cell	2
+Paneth cell	BEST4 enterocyte	41
+Paneth cell	cDC2	42
+Paneth cell	Paneth cell	3
+Paneth cell	cycling myeloid	36
+Paneth cell	Macrophage	63
+Paneth cell	Glial cell	85
+Paneth cell	Treg	29
+Paneth cell	gd T cell	34
+Paneth cell	myofibroblast	103
+Paneth cell	memory B cell	22
+Paneth cell	Arterial EC	100
+Paneth cell	cDC1	28
+Paneth cell	IL2RG	51
+Paneth cell	Tuft	37
+Paneth cell	Monocyte	58
+Paneth cell	pericyte	85
+Paneth cell	Inflammatory FLC	122
+Paneth cell	Activated T	34
+Paneth cell	enteroendocrine	37
+Paneth cell	B cell	25
+Paneth cell	FCER2 B cell	20
+Paneth cell	cycling B cell	16
+Paneth cell	Tfh	23
+Paneth cell	activated B cell	14
+Paneth cell	cycling plasma	6
+Paneth cell	pDC	28
+Paneth cell	LAMP3+ DC	24
+Paneth cell	mast cells	9
+cycling myeloid	enterocyte	69
+cycling myeloid	early enterocyte	55
+cycling myeloid	Goblet cell	61
+cycling myeloid	TA	66
+cycling myeloid	crypt	56
+cycling myeloid	F3 FLC	112
+cycling myeloid	ADAMDEC1 FLC	113
+cycling myeloid	lymphatic EC	74
+cycling myeloid	IgA plasma cell	17
+cycling myeloid	naïve CD4 T	32
+cycling myeloid	CD8 T cell	59
+cycling myeloid	Venous EC	104
+cycling myeloid	IgG plasma cell	14
+cycling myeloid	BEST4 enterocyte	77
+cycling myeloid	cDC2	87
+cycling myeloid	Paneth cell	36
+cycling myeloid	cycling myeloid	49
+cycling myeloid	Macrophage	110
+cycling myeloid	Glial cell	78
+cycling myeloid	Treg	60
+cycling myeloid	gd T cell	60
+cycling myeloid	myofibroblast	93
+cycling myeloid	memory B cell	41
+cycling myeloid	Arterial EC	97
+cycling myeloid	cDC1	64
+cycling myeloid	IL2RG	85
+cycling myeloid	Tuft	61
+cycling myeloid	Monocyte	105
+cycling myeloid	pericyte	88
+cycling myeloid	Inflammatory FLC	124
+cycling myeloid	Activated T	65
+cycling myeloid	enteroendocrine	68
+cycling myeloid	B cell	46
+cycling myeloid	FCER2 B cell	37
+cycling myeloid	cycling B cell	39
+cycling myeloid	Tfh	42
+cycling myeloid	activated B cell	32
+cycling myeloid	cycling plasma	34
+cycling myeloid	pDC	63
+cycling myeloid	LAMP3+ DC	53
+cycling myeloid	mast cells	17
+Macrophage	enterocyte	70
+Macrophage	early enterocyte	63
+Macrophage	Goblet cell	72
+Macrophage	TA	81
+Macrophage	crypt	75
+Macrophage	F3 FLC	82
+Macrophage	ADAMDEC1 FLC	86
+Macrophage	lymphatic EC	68
+Macrophage	IgA plasma cell	31
+Macrophage	naïve CD4 T	32
+Macrophage	CD8 T cell	58
+Macrophage	Venous EC	104
+Macrophage	IgG plasma cell	27
+Macrophage	BEST4 enterocyte	82
+Macrophage	cDC2	96
+Macrophage	Paneth cell	63
+Macrophage	cycling myeloid	110
+Macrophage	Macrophage	56
+Macrophage	Glial cell	60
+Macrophage	Treg	58
+Macrophage	gd T cell	51
+Macrophage	myofibroblast	73
+Macrophage	memory B cell	46
+Macrophage	Arterial EC	79
+Macrophage	cDC1	70
+Macrophage	IL2RG	91
+Macrophage	Tuft	76
+Macrophage	Monocyte	104
+Macrophage	pericyte	73
+Macrophage	Inflammatory FLC	110
+Macrophage	Activated T	62
+Macrophage	enteroendocrine	72
+Macrophage	B cell	53
+Macrophage	FCER2 B cell	40
+Macrophage	cycling B cell	43
+Macrophage	Tfh	41
+Macrophage	activated B cell	42
+Macrophage	cycling plasma	39
+Macrophage	pDC	54
+Macrophage	LAMP3+ DC	37
+Macrophage	mast cells	14
+Glial cell	enterocyte	64
+Glial cell	early enterocyte	57
+Glial cell	Goblet cell	78
+Glial cell	TA	91
+Glial cell	crypt	80
+Glial cell	F3 FLC	165
+Glial cell	ADAMDEC1 FLC	117
+Glial cell	lymphatic EC	74
+Glial cell	IgA plasma cell	20
+Glial cell	naïve CD4 T	16
+Glial cell	CD8 T cell	56
+Glial cell	Venous EC	117
+Glial cell	IgG plasma cell	22
+Glial cell	BEST4 enterocyte	86
+Glial cell	cDC2	51
+Glial cell	Paneth cell	85
+Glial cell	cycling myeloid	78
+Glial cell	Macrophage	60
+Glial cell	Glial cell	71
+Glial cell	Treg	36
+Glial cell	gd T cell	52
+Glial cell	myofibroblast	148
+Glial cell	memory B cell	19
+Glial cell	Arterial EC	102
+Glial cell	cDC1	44
+Glial cell	IL2RG	80
+Glial cell	Tuft	98
+Glial cell	Monocyte	65
+Glial cell	pericyte	120
+Glial cell	Inflammatory FLC	169
+Glial cell	Activated T	52
+Glial cell	enteroendocrine	92
+Glial cell	B cell	26
+Glial cell	FCER2 B cell	17
+Glial cell	cycling B cell	20
+Glial cell	Tfh	24
+Glial cell	activated B cell	26
+Glial cell	cycling plasma	29
+Glial cell	pDC	30
+Glial cell	LAMP3+ DC	35
+Glial cell	mast cells	8
+Treg	enterocyte	38
+Treg	early enterocyte	30
+Treg	Goblet cell	31
+Treg	TA	36
+Treg	crypt	31
+Treg	F3 FLC	35
+Treg	ADAMDEC1 FLC	42
+Treg	lymphatic EC	36
+Treg	IgA plasma cell	12
+Treg	naïve CD4 T	15
+Treg	CD8 T cell	34
+Treg	Venous EC	49
+Treg	IgG plasma cell	11
+Treg	BEST4 enterocyte	40
+Treg	cDC2	53
+Treg	Paneth cell	29
+Treg	cycling myeloid	60
+Treg	Macrophage	58
+Treg	Glial cell	36
+Treg	Treg	13
+Treg	gd T cell	29
+Treg	myofibroblast	29
+Treg	memory B cell	20
+Treg	Arterial EC	47
+Treg	cDC1	42
+Treg	IL2RG	49
+Treg	Tuft	36
+Treg	Monocyte	59
+Treg	pericyte	25
+Treg	Inflammatory FLC	51
+Treg	Activated T	36
+Treg	enteroendocrine	35
+Treg	B cell	27
+Treg	FCER2 B cell	20
+Treg	cycling B cell	22
+Treg	Tfh	19
+Treg	activated B cell	19
+Treg	cycling plasma	18
+Treg	pDC	20
+Treg	LAMP3+ DC	39
+Treg	mast cells	4
+gd T cell	enterocyte	35
+gd T cell	early enterocyte	27
+gd T cell	Goblet cell	34
+gd T cell	TA	39
+gd T cell	crypt	33
+gd T cell	F3 FLC	56
+gd T cell	ADAMDEC1 FLC	60
+gd T cell	lymphatic EC	39
+gd T cell	IgA plasma cell	17
+gd T cell	naïve CD4 T	22
+gd T cell	CD8 T cell	34
+gd T cell	Venous EC	56
+gd T cell	IgG plasma cell	15
+gd T cell	BEST4 enterocyte	45
+gd T cell	cDC2	54
+gd T cell	Paneth cell	34
+gd T cell	cycling myeloid	60
+gd T cell	Macrophage	51
+gd T cell	Glial cell	52
+gd T cell	Treg	29
+gd T cell	gd T cell	16
+gd T cell	myofibroblast	45
+gd T cell	memory B cell	31
+gd T cell	Arterial EC	45
+gd T cell	cDC1	37
+gd T cell	IL2RG	44
+gd T cell	Tuft	42
+gd T cell	Monocyte	60
+gd T cell	pericyte	42
+gd T cell	Inflammatory FLC	61
+gd T cell	Activated T	28
+gd T cell	enteroendocrine	26
+gd T cell	B cell	37
+gd T cell	FCER2 B cell	31
+gd T cell	cycling B cell	26
+gd T cell	Tfh	23
+gd T cell	activated B cell	25
+gd T cell	cycling plasma	23
+gd T cell	pDC	19
+gd T cell	LAMP3+ DC	23
+gd T cell	mast cells	4
+myofibroblast	enterocyte	73
+myofibroblast	early enterocyte	69
+myofibroblast	Goblet cell	84
+myofibroblast	TA	121
+myofibroblast	crypt	96
+myofibroblast	F3 FLC	190
+myofibroblast	ADAMDEC1 FLC	147
+myofibroblast	lymphatic EC	97
+myofibroblast	IgA plasma cell	18
+myofibroblast	naïve CD4 T	13
+myofibroblast	CD8 T cell	48
+myofibroblast	Venous EC	149
+myofibroblast	IgG plasma cell	18
+myofibroblast	BEST4 enterocyte	105
+myofibroblast	cDC2	53
+myofibroblast	Paneth cell	103
+myofibroblast	cycling myeloid	93
+myofibroblast	Macrophage	73
+myofibroblast	Glial cell	148
+myofibroblast	Treg	29
+myofibroblast	gd T cell	45
+myofibroblast	myofibroblast	81
+myofibroblast	memory B cell	19
+myofibroblast	Arterial EC	140
+myofibroblast	cDC1	47
+myofibroblast	IL2RG	91
+myofibroblast	Tuft	105
+myofibroblast	Monocyte	72
+myofibroblast	pericyte	128
+myofibroblast	Inflammatory FLC	191
+myofibroblast	Activated T	43
+myofibroblast	enteroendocrine	100
+myofibroblast	B cell	29
+myofibroblast	FCER2 B cell	19
+myofibroblast	cycling B cell	27
+myofibroblast	Tfh	21
+myofibroblast	activated B cell	24
+myofibroblast	cycling plasma	21
+myofibroblast	pDC	31
+myofibroblast	LAMP3+ DC	28
+myofibroblast	mast cells	5
+memory B cell	enterocyte	30
+memory B cell	early enterocyte	21
+memory B cell	Goblet cell	28
+memory B cell	TA	32
+memory B cell	crypt	24
+memory B cell	F3 FLC	28
+memory B cell	ADAMDEC1 FLC	34
+memory B cell	lymphatic EC	22
+memory B cell	IgA plasma cell	6
+memory B cell	naïve CD4 T	16
+memory B cell	CD8 T cell	31
+memory B cell	Venous EC	27
+memory B cell	IgG plasma cell	5
+memory B cell	BEST4 enterocyte	29
+memory B cell	cDC2	40
+memory B cell	Paneth cell	22
+memory B cell	cycling myeloid	41
+memory B cell	Macrophage	46
+memory B cell	Glial cell	19
+memory B cell	Treg	20
+memory B cell	gd T cell	31
+memory B cell	myofibroblast	19
+memory B cell	memory B cell	10
+memory B cell	Arterial EC	24
+memory B cell	cDC1	25
+memory B cell	IL2RG	30
+memory B cell	Tuft	21
+memory B cell	Monocyte	49
+memory B cell	pericyte	19
+memory B cell	Inflammatory FLC	41
+memory B cell	Activated T	30
+memory B cell	enteroendocrine	24
+memory B cell	B cell	25
+memory B cell	FCER2 B cell	21
+memory B cell	cycling B cell	23
+memory B cell	Tfh	22
+memory B cell	activated B cell	13
+memory B cell	cycling plasma	7
+memory B cell	pDC	16
+memory B cell	LAMP3+ DC	15
+memory B cell	mast cells	6
+Arterial EC	enterocyte	67
+Arterial EC	early enterocyte	62
+Arterial EC	Goblet cell	68
+Arterial EC	TA	110
+Arterial EC	crypt	84
+Arterial EC	F3 FLC	154
+Arterial EC	ADAMDEC1 FLC	125
+Arterial EC	lymphatic EC	74
+Arterial EC	IgA plasma cell	19
+Arterial EC	naïve CD4 T	21
+Arterial EC	CD8 T cell	48
+Arterial EC	Venous EC	121
+Arterial EC	IgG plasma cell	17
+Arterial EC	BEST4 enterocyte	91
+Arterial EC	cDC2	71
+Arterial EC	Paneth cell	100
+Arterial EC	cycling myeloid	97
+Arterial EC	Macrophage	79
+Arterial EC	Glial cell	102
+Arterial EC	Treg	47
+Arterial EC	gd T cell	45
+Arterial EC	myofibroblast	140
+Arterial EC	memory B cell	24
+Arterial EC	Arterial EC	58
+Arterial EC	cDC1	62
+Arterial EC	IL2RG	84
+Arterial EC	Tuft	94
+Arterial EC	Monocyte	86
+Arterial EC	pericyte	132
+Arterial EC	Inflammatory FLC	147
+Arterial EC	Activated T	48
+Arterial EC	enteroendocrine	84
+Arterial EC	B cell	37
+Arterial EC	FCER2 B cell	24
+Arterial EC	cycling B cell	31
+Arterial EC	Tfh	33
+Arterial EC	activated B cell	27
+Arterial EC	cycling plasma	23
+Arterial EC	pDC	48
+Arterial EC	LAMP3+ DC	26
+Arterial EC	mast cells	13
+cDC1	enterocyte	40
+cDC1	early enterocyte	35
+cDC1	Goblet cell	40
+cDC1	TA	42
+cDC1	crypt	37
+cDC1	F3 FLC	56
+cDC1	ADAMDEC1 FLC	57
+cDC1	lymphatic EC	44
+cDC1	IgA plasma cell	12
+cDC1	naïve CD4 T	18
+cDC1	CD8 T cell	36
+cDC1	Venous EC	70
+cDC1	IgG plasma cell	15
+cDC1	BEST4 enterocyte	45
+cDC1	cDC2	50
+cDC1	Paneth cell	28
+cDC1	cycling myeloid	64
+cDC1	Macrophage	70
+cDC1	Glial cell	44
+cDC1	Treg	42
+cDC1	gd T cell	37
+cDC1	myofibroblast	47
+cDC1	memory B cell	25
+cDC1	Arterial EC	62
+cDC1	cDC1	22
+cDC1	IL2RG	53
+cDC1	Tuft	39
+cDC1	Monocyte	65
+cDC1	pericyte	46
+cDC1	Inflammatory FLC	65
+cDC1	Activated T	41
+cDC1	enteroendocrine	40
+cDC1	B cell	34
+cDC1	FCER2 B cell	21
+cDC1	cycling B cell	30
+cDC1	Tfh	33
+cDC1	activated B cell	28
+cDC1	cycling plasma	28
+cDC1	pDC	32
+cDC1	LAMP3+ DC	43
+cDC1	mast cells	9
+IL2RG	enterocyte	87
+IL2RG	early enterocyte	75
+IL2RG	Goblet cell	86
+IL2RG	TA	92
+IL2RG	crypt	89
+IL2RG	F3 FLC	124
+IL2RG	ADAMDEC1 FLC	115
+IL2RG	lymphatic EC	68
+IL2RG	IgA plasma cell	14
+IL2RG	naïve CD4 T	20
+IL2RG	CD8 T cell	45
+IL2RG	Venous EC	98
+IL2RG	IgG plasma cell	14
+IL2RG	BEST4 enterocyte	101
+IL2RG	cDC2	68
+IL2RG	Paneth cell	51
+IL2RG	cycling myeloid	85
+IL2RG	Macrophage	91
+IL2RG	Glial cell	80
+IL2RG	Treg	49
+IL2RG	gd T cell	44
+IL2RG	myofibroblast	91
+IL2RG	memory B cell	30
+IL2RG	Arterial EC	84
+IL2RG	cDC1	53
+IL2RG	IL2RG	53
+IL2RG	Tuft	80
+IL2RG	Monocyte	79
+IL2RG	pericyte	83
+IL2RG	Inflammatory FLC	135
+IL2RG	Activated T	51
+IL2RG	enteroendocrine	70
+IL2RG	B cell	39
+IL2RG	FCER2 B cell	27
+IL2RG	cycling B cell	30
+IL2RG	Tfh	34
+IL2RG	activated B cell	25
+IL2RG	cycling plasma	17
+IL2RG	pDC	38
+IL2RG	LAMP3+ DC	31
+IL2RG	mast cells	10
+Tuft	enterocyte	67
+Tuft	early enterocyte	52
+Tuft	Goblet cell	73
+Tuft	TA	69
+Tuft	crypt	66
+Tuft	F3 FLC	153
+Tuft	ADAMDEC1 FLC	123
+Tuft	lymphatic EC	73
+Tuft	IgA plasma cell	9
+Tuft	naïve CD4 T	20
+Tuft	CD8 T cell	43
+Tuft	Venous EC	100
+Tuft	IgG plasma cell	6
+Tuft	BEST4 enterocyte	83
+Tuft	cDC2	51
+Tuft	Paneth cell	37
+Tuft	cycling myeloid	61
+Tuft	Macrophage	76
+Tuft	Glial cell	98
+Tuft	Treg	36
+Tuft	gd T cell	42
+Tuft	myofibroblast	105
+Tuft	memory B cell	21
+Tuft	Arterial EC	94
+Tuft	cDC1	39
+Tuft	IL2RG	80
+Tuft	Tuft	39
+Tuft	Monocyte	68
+Tuft	pericyte	90
+Tuft	Inflammatory FLC	141
+Tuft	Activated T	41
+Tuft	enteroendocrine	67
+Tuft	B cell	26
+Tuft	FCER2 B cell	23
+Tuft	cycling B cell	24
+Tuft	Tfh	28
+Tuft	activated B cell	19
+Tuft	cycling plasma	11
+Tuft	pDC	38
+Tuft	LAMP3+ DC	25
+Tuft	mast cells	11
+Monocyte	enterocyte	59
+Monocyte	early enterocyte	55
+Monocyte	Goblet cell	66
+Monocyte	TA	75
+Monocyte	crypt	67
+Monocyte	F3 FLC	77
+Monocyte	ADAMDEC1 FLC	96
+Monocyte	lymphatic EC	71
+Monocyte	IgA plasma cell	28
+Monocyte	naïve CD4 T	33
+Monocyte	CD8 T cell	63
+Monocyte	Venous EC	92
+Monocyte	IgG plasma cell	27
+Monocyte	BEST4 enterocyte	77
+Monocyte	cDC2	91
+Monocyte	Paneth cell	58
+Monocyte	cycling myeloid	105
+Monocyte	Macrophage	104
+Monocyte	Glial cell	65
+Monocyte	Treg	59
+Monocyte	gd T cell	60
+Monocyte	myofibroblast	72
+Monocyte	memory B cell	49
+Monocyte	Arterial EC	86
+Monocyte	cDC1	65
+Monocyte	IL2RG	79
+Monocyte	Tuft	68
+Monocyte	Monocyte	49
+Monocyte	pericyte	71
+Monocyte	Inflammatory FLC	105
+Monocyte	Activated T	66
+Monocyte	enteroendocrine	67
+Monocyte	B cell	54
+Monocyte	FCER2 B cell	45
+Monocyte	cycling B cell	42
+Monocyte	Tfh	43
+Monocyte	activated B cell	38
+Monocyte	cycling plasma	39
+Monocyte	pDC	59
+Monocyte	LAMP3+ DC	45
+Monocyte	mast cells	14
+pericyte	enterocyte	69
+pericyte	early enterocyte	59
+pericyte	Goblet cell	79
+pericyte	TA	95
+pericyte	crypt	80
+pericyte	F3 FLC	153
+pericyte	ADAMDEC1 FLC	108
+pericyte	lymphatic EC	87
+pericyte	IgA plasma cell	14
+pericyte	naïve CD4 T	13
+pericyte	CD8 T cell	41
+pericyte	Venous EC	130
+pericyte	IgG plasma cell	13
+pericyte	BEST4 enterocyte	98
+pericyte	cDC2	51
+pericyte	Paneth cell	85
+pericyte	cycling myeloid	88
+pericyte	Macrophage	73
+pericyte	Glial cell	120
+pericyte	Treg	25
+pericyte	gd T cell	42
+pericyte	myofibroblast	128
+pericyte	memory B cell	19
+pericyte	Arterial EC	132
+pericyte	cDC1	46
+pericyte	IL2RG	83
+pericyte	Tuft	90
+pericyte	Monocyte	71
+pericyte	pericyte	50
+pericyte	Inflammatory FLC	152
+pericyte	Activated T	42
+pericyte	enteroendocrine	88
+pericyte	B cell	33
+pericyte	FCER2 B cell	19
+pericyte	cycling B cell	23
+pericyte	Tfh	18
+pericyte	activated B cell	21
+pericyte	cycling plasma	20
+pericyte	pDC	33
+pericyte	LAMP3+ DC	26
+pericyte	mast cells	5
+Inflammatory FLC	enterocyte	112
+Inflammatory FLC	early enterocyte	104
+Inflammatory FLC	Goblet cell	119
+Inflammatory FLC	TA	150
+Inflammatory FLC	crypt	132
+Inflammatory FLC	F3 FLC	219
+Inflammatory FLC	ADAMDEC1 FLC	177
+Inflammatory FLC	lymphatic EC	107
+Inflammatory FLC	IgA plasma cell	26
+Inflammatory FLC	naïve CD4 T	24
+Inflammatory FLC	CD8 T cell	67
+Inflammatory FLC	Venous EC	165
+Inflammatory FLC	IgG plasma cell	26
+Inflammatory FLC	BEST4 enterocyte	146
+Inflammatory FLC	cDC2	89
+Inflammatory FLC	Paneth cell	122
+Inflammatory FLC	cycling myeloid	124
+Inflammatory FLC	Macrophage	110
+Inflammatory FLC	Glial cell	169
+Inflammatory FLC	Treg	51
+Inflammatory FLC	gd T cell	61
+Inflammatory FLC	myofibroblast	191
+Inflammatory FLC	memory B cell	41
+Inflammatory FLC	Arterial EC	147
+Inflammatory FLC	cDC1	65
+Inflammatory FLC	IL2RG	135
+Inflammatory FLC	Tuft	141
+Inflammatory FLC	Monocyte	105
+Inflammatory FLC	pericyte	152
+Inflammatory FLC	Inflammatory FLC	112
+Inflammatory FLC	Activated T	67
+Inflammatory FLC	enteroendocrine	129
+Inflammatory FLC	B cell	53
+Inflammatory FLC	FCER2 B cell	36
+Inflammatory FLC	cycling B cell	43
+Inflammatory FLC	Tfh	38
+Inflammatory FLC	activated B cell	34
+Inflammatory FLC	cycling plasma	33
+Inflammatory FLC	pDC	45
+Inflammatory FLC	LAMP3+ DC	40
+Inflammatory FLC	mast cells	8
+Activated T	enterocyte	38
+Activated T	early enterocyte	32
+Activated T	Goblet cell	31
+Activated T	TA	44
+Activated T	crypt	40
+Activated T	F3 FLC	50
+Activated T	ADAMDEC1 FLC	54
+Activated T	lymphatic EC	38
+Activated T	IgA plasma cell	18
+Activated T	naïve CD4 T	15
+Activated T	CD8 T cell	31
+Activated T	Venous EC	54
+Activated T	IgG plasma cell	15
+Activated T	BEST4 enterocyte	43
+Activated T	cDC2	59
+Activated T	Paneth cell	34
+Activated T	cycling myeloid	65
+Activated T	Macrophage	62
+Activated T	Glial cell	52
+Activated T	Treg	36
+Activated T	gd T cell	28
+Activated T	myofibroblast	43
+Activated T	memory B cell	30
+Activated T	Arterial EC	48
+Activated T	cDC1	41
+Activated T	IL2RG	51
+Activated T	Tuft	41
+Activated T	Monocyte	66
+Activated T	pericyte	42
+Activated T	Inflammatory FLC	67
+Activated T	Activated T	14
+Activated T	enteroendocrine	35
+Activated T	B cell	35
+Activated T	FCER2 B cell	28
+Activated T	cycling B cell	31
+Activated T	Tfh	21
+Activated T	activated B cell	24
+Activated T	cycling plasma	21
+Activated T	pDC	23
+Activated T	LAMP3+ DC	30
+Activated T	mast cells	4
+enteroendocrine	enterocyte	53
+enteroendocrine	early enterocyte	39
+enteroendocrine	Goblet cell	69
+enteroendocrine	TA	66
+enteroendocrine	crypt	54
+enteroendocrine	F3 FLC	132
+enteroendocrine	ADAMDEC1 FLC	116
+enteroendocrine	lymphatic EC	57
+enteroendocrine	IgA plasma cell	9
+enteroendocrine	naïve CD4 T	15
+enteroendocrine	CD8 T cell	31
+enteroendocrine	Venous EC	90
+enteroendocrine	IgG plasma cell	4
+enteroendocrine	BEST4 enterocyte	69
+enteroendocrine	cDC2	50
+enteroendocrine	Paneth cell	37
+enteroendocrine	cycling myeloid	68
+enteroendocrine	Macrophage	72
+enteroendocrine	Glial cell	92
+enteroendocrine	Treg	35
+enteroendocrine	gd T cell	26
+enteroendocrine	myofibroblast	100
+enteroendocrine	memory B cell	24
+enteroendocrine	Arterial EC	84
+enteroendocrine	cDC1	40
+enteroendocrine	IL2RG	70
+enteroendocrine	Tuft	67
+enteroendocrine	Monocyte	67
+enteroendocrine	pericyte	88
+enteroendocrine	Inflammatory FLC	129
+enteroendocrine	Activated T	35
+enteroendocrine	enteroendocrine	32
+enteroendocrine	B cell	22
+enteroendocrine	FCER2 B cell	17
+enteroendocrine	cycling B cell	17
+enteroendocrine	Tfh	22
+enteroendocrine	activated B cell	16
+enteroendocrine	cycling plasma	6
+enteroendocrine	pDC	31
+enteroendocrine	LAMP3+ DC	25
+enteroendocrine	mast cells	8
+B cell	enterocyte	35
+B cell	early enterocyte	32
+B cell	Goblet cell	32
+B cell	TA	38
+B cell	crypt	31
+B cell	F3 FLC	46
+B cell	ADAMDEC1 FLC	45
+B cell	lymphatic EC	34
+B cell	IgA plasma cell	16
+B cell	naïve CD4 T	20
+B cell	CD8 T cell	37
+B cell	Venous EC	45
+B cell	IgG plasma cell	14
+B cell	BEST4 enterocyte	34
+B cell	cDC2	44
+B cell	Paneth cell	25
+B cell	cycling myeloid	46
+B cell	Macrophage	53
+B cell	Glial cell	26
+B cell	Treg	27
+B cell	gd T cell	37
+B cell	myofibroblast	29
+B cell	memory B cell	25
+B cell	Arterial EC	37
+B cell	cDC1	34
+B cell	IL2RG	39
+B cell	Tuft	26
+B cell	Monocyte	54
+B cell	pericyte	33
+B cell	Inflammatory FLC	53
+B cell	Activated T	35
+B cell	enteroendocrine	22
+B cell	B cell	13
+B cell	FCER2 B cell	20
+B cell	cycling B cell	23
+B cell	Tfh	27
+B cell	activated B cell	19
+B cell	cycling plasma	12
+B cell	pDC	19
+B cell	LAMP3+ DC	17
+B cell	mast cells	6
+FCER2 B cell	enterocyte	25
+FCER2 B cell	early enterocyte	23
+FCER2 B cell	Goblet cell	21
+FCER2 B cell	TA	29
+FCER2 B cell	crypt	25
+FCER2 B cell	F3 FLC	27
+FCER2 B cell	ADAMDEC1 FLC	31
+FCER2 B cell	lymphatic EC	22
+FCER2 B cell	IgA plasma cell	7
+FCER2 B cell	naïve CD4 T	17
+FCER2 B cell	CD8 T cell	30
+FCER2 B cell	Venous EC	28
+FCER2 B cell	IgG plasma cell	6
+FCER2 B cell	BEST4 enterocyte	26
+FCER2 B cell	cDC2	35
+FCER2 B cell	Paneth cell	20
+FCER2 B cell	cycling myeloid	37
+FCER2 B cell	Macrophage	40
+FCER2 B cell	Glial cell	17
+FCER2 B cell	Treg	20
+FCER2 B cell	gd T cell	31
+FCER2 B cell	myofibroblast	19
+FCER2 B cell	memory B cell	21
+FCER2 B cell	Arterial EC	24
+FCER2 B cell	cDC1	21
+FCER2 B cell	IL2RG	27
+FCER2 B cell	Tuft	23
+FCER2 B cell	Monocyte	45
+FCER2 B cell	pericyte	19
+FCER2 B cell	Inflammatory FLC	36
+FCER2 B cell	Activated T	28
+FCER2 B cell	enteroendocrine	17
+FCER2 B cell	B cell	20
+FCER2 B cell	FCER2 B cell	10
+FCER2 B cell	cycling B cell	20
+FCER2 B cell	Tfh	23
+FCER2 B cell	activated B cell	15
+FCER2 B cell	cycling plasma	10
+FCER2 B cell	pDC	12
+FCER2 B cell	LAMP3+ DC	13
+FCER2 B cell	mast cells	6
+cycling B cell	enterocyte	30
+cycling B cell	early enterocyte	21
+cycling B cell	Goblet cell	26
+cycling B cell	TA	24
+cycling B cell	crypt	19
+cycling B cell	F3 FLC	37
+cycling B cell	ADAMDEC1 FLC	41
+cycling B cell	lymphatic EC	23
+cycling B cell	IgA plasma cell	10
+cycling B cell	naïve CD4 T	17
+cycling B cell	CD8 T cell	23
+cycling B cell	Venous EC	35
+cycling B cell	IgG plasma cell	10
+cycling B cell	BEST4 enterocyte	28
+cycling B cell	cDC2	39
+cycling B cell	Paneth cell	16
+cycling B cell	cycling myeloid	39
+cycling B cell	Macrophage	43
+cycling B cell	Glial cell	20
+cycling B cell	Treg	22
+cycling B cell	gd T cell	26
+cycling B cell	myofibroblast	27
+cycling B cell	memory B cell	23
+cycling B cell	Arterial EC	31
+cycling B cell	cDC1	30
+cycling B cell	IL2RG	30
+cycling B cell	Tuft	24
+cycling B cell	Monocyte	42
+cycling B cell	pericyte	23
+cycling B cell	Inflammatory FLC	43
+cycling B cell	Activated T	31
+cycling B cell	enteroendocrine	17
+cycling B cell	B cell	23
+cycling B cell	FCER2 B cell	20
+cycling B cell	cycling B cell	9
+cycling B cell	Tfh	24
+cycling B cell	activated B cell	14
+cycling B cell	cycling plasma	6
+cycling B cell	pDC	13
+cycling B cell	LAMP3+ DC	15
+cycling B cell	mast cells	7
+Tfh	enterocyte	28
+Tfh	early enterocyte	24
+Tfh	Goblet cell	26
+Tfh	TA	31
+Tfh	crypt	26
+Tfh	F3 FLC	27
+Tfh	ADAMDEC1 FLC	32
+Tfh	lymphatic EC	24
+Tfh	IgA plasma cell	10
+Tfh	naïve CD4 T	10
+Tfh	CD8 T cell	26
+Tfh	Venous EC	32
+Tfh	IgG plasma cell	12
+Tfh	BEST4 enterocyte	31
+Tfh	cDC2	42
+Tfh	Paneth cell	23
+Tfh	cycling myeloid	42
+Tfh	Macrophage	41
+Tfh	Glial cell	24
+Tfh	Treg	19
+Tfh	gd T cell	23
+Tfh	myofibroblast	21
+Tfh	memory B cell	22
+Tfh	Arterial EC	33
+Tfh	cDC1	33
+Tfh	IL2RG	34
+Tfh	Tuft	28
+Tfh	Monocyte	43
+Tfh	pericyte	18
+Tfh	Inflammatory FLC	38
+Tfh	Activated T	21
+Tfh	enteroendocrine	22
+Tfh	B cell	27
+Tfh	FCER2 B cell	23
+Tfh	cycling B cell	24
+Tfh	Tfh	7
+Tfh	activated B cell	18
+Tfh	cycling plasma	15
+Tfh	pDC	11
+Tfh	LAMP3+ DC	18
+Tfh	mast cells	3
+activated B cell	enterocyte	21
+activated B cell	early enterocyte	15
+activated B cell	Goblet cell	24
+activated B cell	TA	19
+activated B cell	crypt	18
+activated B cell	F3 FLC	30
+activated B cell	ADAMDEC1 FLC	33
+activated B cell	lymphatic EC	23
+activated B cell	IgA plasma cell	6
+activated B cell	naïve CD4 T	10
+activated B cell	CD8 T cell	24
+activated B cell	Venous EC	39
+activated B cell	IgG plasma cell	6
+activated B cell	BEST4 enterocyte	23
+activated B cell	cDC2	31
+activated B cell	Paneth cell	14
+activated B cell	cycling myeloid	32
+activated B cell	Macrophage	42
+activated B cell	Glial cell	26
+activated B cell	Treg	19
+activated B cell	gd T cell	25
+activated B cell	myofibroblast	24
+activated B cell	memory B cell	13
+activated B cell	Arterial EC	27
+activated B cell	cDC1	28
+activated B cell	IL2RG	25
+activated B cell	Tuft	19
+activated B cell	Monocyte	38
+activated B cell	pericyte	21
+activated B cell	Inflammatory FLC	34
+activated B cell	Activated T	24
+activated B cell	enteroendocrine	16
+activated B cell	B cell	19
+activated B cell	FCER2 B cell	15
+activated B cell	cycling B cell	14
+activated B cell	Tfh	18
+activated B cell	activated B cell	7
+activated B cell	cycling plasma	7
+activated B cell	pDC	14
+activated B cell	LAMP3+ DC	18
+activated B cell	mast cells	4
+cycling plasma	enterocyte	16
+cycling plasma	early enterocyte	9
+cycling plasma	Goblet cell	12
+cycling plasma	TA	12
+cycling plasma	crypt	11
+cycling plasma	F3 FLC	19
+cycling plasma	ADAMDEC1 FLC	29
+cycling plasma	lymphatic EC	17
+cycling plasma	IgA plasma cell	3
+cycling plasma	naïve CD4 T	8
+cycling plasma	CD8 T cell	21
+cycling plasma	Venous EC	31
+cycling plasma	IgG plasma cell	1
+cycling plasma	BEST4 enterocyte	14
+cycling plasma	cDC2	24
+cycling plasma	Paneth cell	6
+cycling plasma	cycling myeloid	34
+cycling plasma	Macrophage	39
+cycling plasma	Glial cell	29
+cycling plasma	Treg	18
+cycling plasma	gd T cell	23
+cycling plasma	myofibroblast	21
+cycling plasma	memory B cell	7
+cycling plasma	Arterial EC	23
+cycling plasma	cDC1	28
+cycling plasma	IL2RG	17
+cycling plasma	Tuft	11
+cycling plasma	Monocyte	39
+cycling plasma	pericyte	20
+cycling plasma	Inflammatory FLC	33
+cycling plasma	Activated T	21
+cycling plasma	enteroendocrine	6
+cycling plasma	B cell	12
+cycling plasma	FCER2 B cell	10
+cycling plasma	cycling B cell	6
+cycling plasma	Tfh	15
+cycling plasma	activated B cell	7
+cycling plasma	cycling plasma	1
+cycling plasma	pDC	15
+cycling plasma	LAMP3+ DC	25
+cycling plasma	mast cells	3
+pDC	enterocyte	32
+pDC	early enterocyte	24
+pDC	Goblet cell	27
+pDC	TA	30
+pDC	crypt	22
+pDC	F3 FLC	37
+pDC	ADAMDEC1 FLC	36
+pDC	lymphatic EC	31
+pDC	IgA plasma cell	10
+pDC	naïve CD4 T	9
+pDC	CD8 T cell	19
+pDC	Venous EC	51
+pDC	IgG plasma cell	7
+pDC	BEST4 enterocyte	43
+pDC	cDC2	39
+pDC	Paneth cell	28
+pDC	cycling myeloid	63
+pDC	Macrophage	54
+pDC	Glial cell	30
+pDC	Treg	20
+pDC	gd T cell	19
+pDC	myofibroblast	31
+pDC	memory B cell	16
+pDC	Arterial EC	48
+pDC	cDC1	32
+pDC	IL2RG	38
+pDC	Tuft	38
+pDC	Monocyte	59
+pDC	pericyte	33
+pDC	Inflammatory FLC	45
+pDC	Activated T	23
+pDC	enteroendocrine	31
+pDC	B cell	19
+pDC	FCER2 B cell	12
+pDC	cycling B cell	13
+pDC	Tfh	11
+pDC	activated B cell	14
+pDC	cycling plasma	15
+pDC	pDC	19
+pDC	LAMP3+ DC	32
+pDC	mast cells	7
+LAMP3+ DC	enterocyte	27
+LAMP3+ DC	early enterocyte	22
+LAMP3+ DC	Goblet cell	24
+LAMP3+ DC	TA	27
+LAMP3+ DC	crypt	24
+LAMP3+ DC	F3 FLC	27
+LAMP3+ DC	ADAMDEC1 FLC	36
+LAMP3+ DC	lymphatic EC	26
+LAMP3+ DC	IgA plasma cell	11
+LAMP3+ DC	naïve CD4 T	13
+LAMP3+ DC	CD8 T cell	22
+LAMP3+ DC	Venous EC	46
+LAMP3+ DC	IgG plasma cell	12
+LAMP3+ DC	BEST4 enterocyte	30
+LAMP3+ DC	cDC2	31
+LAMP3+ DC	Paneth cell	24
+LAMP3+ DC	cycling myeloid	53
+LAMP3+ DC	Macrophage	37
+LAMP3+ DC	Glial cell	35
+LAMP3+ DC	Treg	39
+LAMP3+ DC	gd T cell	23
+LAMP3+ DC	myofibroblast	28
+LAMP3+ DC	memory B cell	15
+LAMP3+ DC	Arterial EC	26
+LAMP3+ DC	cDC1	43
+LAMP3+ DC	IL2RG	31
+LAMP3+ DC	Tuft	25
+LAMP3+ DC	Monocyte	45
+LAMP3+ DC	pericyte	26
+LAMP3+ DC	Inflammatory FLC	40
+LAMP3+ DC	Activated T	30
+LAMP3+ DC	enteroendocrine	25
+LAMP3+ DC	B cell	17
+LAMP3+ DC	FCER2 B cell	13
+LAMP3+ DC	cycling B cell	15
+LAMP3+ DC	Tfh	18
+LAMP3+ DC	activated B cell	18
+LAMP3+ DC	cycling plasma	25
+LAMP3+ DC	pDC	32
+LAMP3+ DC	LAMP3+ DC	21
+LAMP3+ DC	mast cells	3
+mast cells	enterocyte	9
+mast cells	early enterocyte	8
+mast cells	Goblet cell	9
+mast cells	TA	11
+mast cells	crypt	8
+mast cells	F3 FLC	6
+mast cells	ADAMDEC1 FLC	8
+mast cells	lymphatic EC	3
+mast cells	IgA plasma cell	1
+mast cells	naïve CD4 T	3
+mast cells	CD8 T cell	4
+mast cells	Venous EC	10
+mast cells	IgG plasma cell	1
+mast cells	BEST4 enterocyte	10
+mast cells	cDC2	12
+mast cells	Paneth cell	9
+mast cells	cycling myeloid	17
+mast cells	Macrophage	14
+mast cells	Glial cell	8
+mast cells	Treg	4
+mast cells	gd T cell	4
+mast cells	myofibroblast	5
+mast cells	memory B cell	6
+mast cells	Arterial EC	13
+mast cells	cDC1	9
+mast cells	IL2RG	10
+mast cells	Tuft	11
+mast cells	Monocyte	14
+mast cells	pericyte	5
+mast cells	Inflammatory FLC	8
+mast cells	Activated T	4
+mast cells	enteroendocrine	8
+mast cells	B cell	6
+mast cells	FCER2 B cell	6
+mast cells	cycling B cell	7
+mast cells	Tfh	3
+mast cells	activated B cell	4
+mast cells	cycling plasma	3
+mast cells	pDC	7
+mast cells	LAMP3+ DC	3
+mast cells	mast cells	0

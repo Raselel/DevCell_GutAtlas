@@ -1,0 +1,42 @@
+	all_sum
+enterocyte	2123
+early enterocyte	1790
+Goblet cell	2150
+TA	2497
+crypt	2171
+F3 FLC	3672
+ADAMDEC1 FLC	3296
+lymphatic EC	2087
+IgA plasma cell	544
+naïve CD4 T	689
+CD8 T cell	1543
+Venous EC	3069
+IgG plasma cell	496
+BEST4 enterocyte	2548
+cDC2	2122
+Paneth cell	1813
+cycling myeloid	2643
+Macrophage	2644
+Glial cell	2680
+Treg	1335
+gd T cell	1480
+myofibroblast	2994
+memory B cell	992
+Arterial EC	2823
+cDC1	1645
+IL2RG	2556
+Tuft	2328
+Monocyte	2584
+pericyte	2622
+Inflammatory FLC	3915
+Activated T	1534
+enteroendocrine	2084
+B cell	1260
+FCER2 B cell	926
+cycling B cell	1001
+Tfh	1012
+activated B cell	865
+cycling plasma	696
+pDC	1167
+LAMP3+ DC	1085
+mast cells	291

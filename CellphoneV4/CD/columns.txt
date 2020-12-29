@@ -1,0 +1,18 @@
+Goblet cell|F3 FLC
+IL2RG|F3 FLC
+TA|F3 FLC
+crypt|F3 FLC
+
+Goblet cell|Inflammatory FLC
+IL2RG|Inflammatory FLC
+TA|Inflammatory FLC
+crypt|Inflammatory FLC
+
+F3 FLC|Goblet cell
+F3 FLC|IL2RG
+F3 FLC|TA
+F3 FLC|crypt
+Inflammatory FLC|Goblet cell
+Inflammatory FLC|IL2RG
+Inflammatory FLC|TA
+Inflammatory FLC|crypt
