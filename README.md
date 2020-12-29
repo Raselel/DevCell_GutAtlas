@@ -6,5 +6,5 @@ Human gut development requires the orchestrated interaction of various different
 
 # Repository structure
 - data integration
-- Analysis scripts
+- analysis scripts
 - CellphoneDB output
